@@ -1,0 +1,91 @@
+rent-a-car booking:
+
+Pax Profile(passenger profile):
+
+
+Guest Profile:
+
+Hotel Stay:
+
+
+Here are the essential fields that must be included in each of the new datasets to ensure consistency and completeness for your MakeMyTrip clone:  
+
+1. rent_a_car.csv (Car Rental Bookings)**
+| Column Name  | Description |
+|-------------|------------|
+| `travelCode` | Unique identifier for the trip (linked with flights/hotels if applicable). |
+| `userCode` | Unique user identifier (linked to users.csv). |
+| `pickupLocation` | Location where the car is picked up. |
+| `dropoffLocation` | Location where the car is returned. |
+| `carType` | Type of car (e.g., Sedan, SUV, Hatchback, Luxury). |
+| `rentalAgency` | Name of the car rental provider. |
+| `pickupDateTime` | Date and time of car pickup. |
+| `dropoffDateTime` | Date and time of car return. |
+| `rentalDuration` | Total rental duration (e.g., 2 days, 5 hours). |
+| `price` | Cost of renting the car. |
+| `totalDistance` | Total distance allowed/traveled. |
+| `fuelPolicy` | Information on fuel policy (Full-to-Full, Prepaid, etc.). |
+| `bookingStatus` | Status of the booking (Confirmed, Cancelled, Pending). |
+
+---
+
+**2. pax_profile.csv (Passenger Profile - For flights)**
+| Column Name  | Description |
+|-------------|------------|
+| `paxID` | Unique identifier for the passenger. |
+| `travelCode` | Reference to the travel booking. |
+| `userCode` | Reference to the user who booked the flight. |
+| `name` | Passenger’s full name. |
+| `gender` | Passenger’s gender. |
+| `age` | Passenger’s age. |
+| `passportNumber` | Passport number (if applicable for international travel). |
+| `nationality` | Nationality of the passenger. |
+| `seatPreference` | Seat preference (Window, Aisle, Middle). |
+| `mealPreference` | Meal preference (Veg, Non-Veg, Special Meals). |
+| `baggageDetails` | Baggage allowance and details. |
+
+---
+
+**3. guest_profile.csv (Guest Profile - For hotel stays)**
+| Column Name  | Description |
+|-------------|------------|
+| `guestID` | Unique identifier for the guest. |
+| `travelCode` | Reference to the travel booking. |
+| `userCode` | Reference to the user who booked the hotel. |
+| `name` | Guest’s full name. |
+| `gender` | Guest’s gender. |
+| `age` | Guest’s age. |
+| `contactNumber` | Guest’s phone number. |
+| `email` | Guest’s email address. |
+| `specialRequests` | Any special requests (e.g., extra bed, late check-in). |
+| `roomPreference` | Preferred type of room (Single, Double, Suite). |
+| `idProof` | Identification details (e.g., Aadhar, Passport). |
+
+---
+
+**4. hotel_stay.csv (Detailed Hotel Stay Information)**
+| Column Name  | Description |
+|-------------|------------|
+| `stayID` | Unique identifier for the hotel stay. |
+| `travelCode` | Reference to the travel booking. |
+| `userCode` | Reference to the user who booked the hotel. |
+| `hotelName` | Name of the hotel. |
+| `location` | City or place of the hotel. |
+| `roomType` | Type of room booked (Deluxe, Suite, Standard). |
+| `checkInDate` | Date of check-in. |
+| `checkOutDate` | Date of check-out. |
+| `totalNights` | Number of nights stayed. |
+| `numGuests` | Total number of guests staying. |
+| `pricePerNight` | Cost per night of stay. |
+| `totalCost` | Total cost of the stay. |
+| `bookingStatus` | Status of the booking (Confirmed, Cancelled, Pending). |
+| `paymentStatus` | Payment status (Paid, Pending, Partially Paid). |
+
+This structure aligns well with your existing datasets (`flights.csv`, `hotels.csv`, and `users.csv`) while ensuring all necessary travel details are captured efficiently. 
+
+
+
+# Load the existing CSV datasets
+flights_df = pd.read_csv('D:\\Flask_tutorial\\mytrip\\model\\flights.csv')
+hotels_df = pd.read_csv('D:\\Flask_tutorial\\mytrip\\model\\hotels.csv')
+users_df = pd.read_csv('D:\\Flask_tutorial\\mytrip\\model\\users.csv')
