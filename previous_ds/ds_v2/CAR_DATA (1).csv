@@ -1,0 +1,41 @@
+Make,Model,Car Type,Mileage(kmpl),Year of Manufacture,Price per day
+Volkswagen,Volkswagen Tiguan,SUV,15,2007,7500
+Volkswagen,Volkswagen Taigun,SUV,19,2021,6500
+Volkswagen,Volkswagen Passat,Sedan,18,2010,5800
+Volkswagen,Volkswagen Virtus,Sedan,20,2018,5500
+Volkswagen,Volkswagen Arteon,Luxury,14,2017,9000
+Volkswagen,Volkswagen Touareg,Luxury,12,2002,10000
+Volkswagen,Volkswagen Polo,Hatchback,18,2019,4000
+Volkswagen,Volkswagen Golf,Hatchback,17,2005,4500
+Toyota,Toyota Fortuner,SUV,12,2004,7000
+Toyota,Toyota Land Cruiser,SUV,9,2001,10000
+Toyota,Toyota Camry,Sedan,19,2017,6500
+Toyota,Toyota Corolla,Sedan,18,2011,5500
+Toyota,Toyota Crown,Luxury,12,2008,8500
+Toyota,Toyota Mirai,Luxury,15,2014,9000
+Toyota,Toyota Yaris,Hatchback,20,2015,4500
+Toyota,Toyota Glanza,Hatchback,21,2019,4000
+Ford,Ford Endeavour,SUV,12,2003,8000
+Ford,Ford Bronco,SUV,10,2024,8500
+Ford,Ford Fusion,Sedan,15,2015,5000
+Ford,Ford Taurus,Sedan,14,2022,5800
+Ford,Ford Mustang,Luxury,10,1964,11000
+Ford,Ford GT,Luxury,7,2004,17000
+Ford,Ford Fiesta,Hatchback,18,2012,4000
+Ford,Ford Focus,Hatchback,17,2018,4500
+Honda,Honda CR-V,SUV,14,2020,7000
+Honda,Honda HR-V,SUV,16,2018,6500
+Honda,Honda Accord,Sedan,17,2013,6000
+Honda,Honda City,Sedan,19,2012,5000
+Honda,Honda Legend,Luxury,12,2001,7500
+Honda,Honda NSX,Luxury,10,1999,12500
+Honda,Honda Jazz,Hatchback,18,2001,4000
+Honda,Honda Brio,Hatchback,20,2011,3500
+Hyundai,Hyundai Creta,SUV,18,2014,6000
+Hyundai,Hyundai Tucson,SUV,15,2004,7000
+Hyundai,Hyundai Verna,Sedan,19,2018,5500
+Hyundai,Hyundai Elantra,Sedan,17,2016,6000
+Hyundai,Hyundai Genesis G90,Luxury,10,2015,11000
+Hyundai,Hyundai Palisade,Luxury,12,2018,9000
+Hyundai,Hyundai i20,Hatchback,20,2008,4000
+Hyundai,Hyundai Grand i10 Nios,Hatchback,21,2019,3500

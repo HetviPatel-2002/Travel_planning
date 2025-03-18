@@ -1,0 +1,41 @@
+Make,Type,Model,Max Mileage (kmpl)
+Volkswagen,SUV,Volkswagen Tiguan,15
+,,Volkswagen Taigun,19.2
+Volkswagen,Sedan,Volkswagen Passat,18
+,,Volkswagen Virtus,20
+Volkswagen,Luxury,Volkswagen Arteon,14
+,,Volkswagen Touareg,12
+Volkswagen,Hatchback,Volkswagen Polo,18
+,,Volkswagen Golf,17
+Toyota,SUV,Toyota Fortuner,12
+,,Toyota Land Cruiser,9
+Toyota,Sedan,Toyota Camry,19
+,,Toyota Corolla,18
+Toyota,Luxury,Toyota Crown,12
+,,Toyota Mirai,15
+Toyota,Hatchback,Toyota Yaris,20
+,,Toyota Glanza,21
+Ford,SUV,Ford Endeavour,12
+,,Ford Bronco,10
+Ford,Sedan,Ford Fusion,15
+,,Ford Taurus,14
+Ford,Luxury,Ford Mustang,10
+,,Ford GT,7
+Ford,Hatchback,Ford Fiesta,18
+,,Ford Focus,17
+Honda,SUV,Honda CR-V,14
+,,Honda HR-V,16
+Honda,Sedan,Honda Accord,17
+,,Honda City,19
+Honda,Luxury,Honda Legend,12
+,,Honda NSX,10
+Honda,Hatchback,Honda Jazz,18
+,,Honda Brio,20
+Hyundai,SUV,Hyundai Creta,18
+,,Hyundai Tucson,15
+Hyundai,Sedan,Hyundai Verna,19
+,,Hyundai Elantra,17
+Hyundai,Luxury,Hyundai Genesis G90,10
+,,Hyundai Palisade,12
+Hyundai,Hatchback,Hyundai i20,20
+,,Hyundai Grand i10 Nios,21

@@ -1,0 +1,577 @@
+travelCode_outbound,User_ID,flightType_outbound,Flight_price_outbound,Flight_agency_outbound,Departure_date_outbound,Departure_outbound,Arrival_outbound,Flight Distance (km)_outbound,Flight Duration (hh:mm)_outbound,Departure Time_outbound,Arrival Time_outbound,flight_number_outbound,travelCode_return,flightType_return,Flight_price_return,Flight_agency_return,Departure_date_return,Departure_return,Arrival_return,Flight Distance (km)_return,Flight Duration (hh:mm)_return,Departure Time_return,Arrival Time_return,flight_number_return
+503,4,firstClass,1515.79,Air India,25/03/2021,Itanagar,Surat,2204.62,02:26,00:56,03:22,AI710,590,economic,421.2,SpiceJet,24/11/2022,Surat,Itanagar,2204.62,02:26,04:18,06:44,SG5534
+590,4,economic,421.2,SpiceJet,24/11/2022,Surat,Itanagar,2204.62,02:26,04:18,06:44,SG5534,503,firstClass,1515.79,Air India,25/03/2021,Itanagar,Surat,2204.62,02:26,00:56,03:22,AI710
+1479,13,economic,604.14,IndiGo,07/09/2020,Bengaluru,Visakhapatnam,797.17,00:53,01:41,02:34,6E624,1507,economic,421.2,SpiceJet,21/01/2021,Visakhapatnam,Bengaluru,797.17,00:53,08:07,09:00,SG3515
+1507,13,economic,421.2,SpiceJet,21/01/2021,Visakhapatnam,Bengaluru,797.17,00:53,08:07,09:00,SG3515,1479,economic,604.14,IndiGo,07/09/2020,Bengaluru,Visakhapatnam,797.17,00:53,01:41,02:34,6E624
+1666,15,firstClass,1124.11,Air India,28/11/2019,Chandigarh,Navi Mumbai,1355.13,01:30,11:12,12:42,AI560D,1792,economic,964.83,Air India,28/04/2022,Navi Mumbai,Chandigarh,1355.13,01:30,02:29,03:59,AI446B
+1792,15,economic,964.83,Air India,28/04/2022,Navi Mumbai,Chandigarh,1355.13,01:30,02:29,03:59,AI446B,1666,firstClass,1124.11,Air India,28/11/2019,Chandigarh,Navi Mumbai,1355.13,01:30,11:12,12:42,AI560D
+2069,18,premium,670.13,Akasa Air,28/01/2021,Kota,Visakhapatnam,3406.67,03:47,03:42,07:29,QP1337B,2072,premium,1242.65,Air India,18/02/2021,Visakhapatnam,Kota,3406.67,03:47,12:54,16:41,AI750
+2072,18,premium,1242.65,Air India,18/02/2021,Visakhapatnam,Kota,3406.67,03:47,12:54,16:41,AI750,2069,premium,670.13,Akasa Air,28/01/2021,Kota,Visakhapatnam,3406.67,03:47,03:42,07:29,QP1337B
+2383,21,economic,563.71,IndiGo,17/06/2021,Shillong,Diu,2201.44,02:26,16:15,18:41,6E205B,2448,economic,604.14,Air India,15/09/2022,Diu,Shillong,2201.44,02:26,05:21,07:47,AI898B
+2448,21,economic,604.14,Air India,15/09/2022,Diu,Shillong,2201.44,02:26,05:21,07:47,AI898B,2383,economic,563.71,IndiGo,17/06/2021,Shillong,Diu,2201.44,02:26,16:15,18:41,6E205B
+2691,23,firstClass,1038.95,GoAir,11/12/2020,Bilaspur,Dabolim,1149.76,01:16,20:13,21:29,G81952,2761,economic,908.93,SpiceJet,17/03/2022,Dabolim,Bilaspur,1149.76,01:16,01:07,02:23,SG4352B
+2761,23,economic,908.93,SpiceJet,17/03/2022,Dabolim,Bilaspur,1149.76,01:16,01:07,02:23,SG4352B,2691,firstClass,1038.95,GoAir,11/12/2020,Bilaspur,Dabolim,1149.76,01:16,20:13,21:29,G81952
+3392,34,firstClass,954.78,GoAir,05/07/2020,Ayodhya,Khowai,991.41,01:06,01:34,02:40,G81757B,3442,premium,1288.79,Air India,22/04/2021,Khowai,Ayodhya,991.41,01:06,23:29,00:35,AI331D
+3441,34,premium,793.15,Air India,15/04/2021,Mysuru,Bhopal,1221.01,01:21,19:40,21:01,AI993C,3498,firstClass,1515.79,Air India,19/05/2022,Bhopal,Mysuru,1221.01,01:21,07:30,08:51,AI878D
+3442,34,premium,1288.79,Air India,22/04/2021,Khowai,Ayodhya,991.41,01:06,23:29,00:35,AI331D,3392,firstClass,954.78,GoAir,05/07/2020,Ayodhya,Khowai,991.41,01:06,01:34,02:40,G81757B
+3498,34,firstClass,1515.79,Air India,19/05/2022,Bhopal,Mysuru,1221.01,01:21,07:30,08:51,AI878D,3441,premium,793.15,Air India,15/04/2021,Mysuru,Bhopal,1221.01,01:21,19:40,21:01,AI993C
+3787,39,economic,344.26,IndiGo,04/09/2020,Kota,Mopa,5169.94,05:44,20:11,01:55,6E603B,3853,firstClass,1434.38,AirAsia India,15/07/2021,Mopa,Kota,5169.94,05:44,02:42,08:26,I53276
+3853,39,firstClass,1434.38,AirAsia India,15/07/2021,Mopa,Kota,5169.94,05:44,02:42,08:26,I53276,3787,economic,344.26,IndiGo,04/09/2020,Kota,Mopa,5169.94,05:44,20:11,01:55,6E603B
+4108,41,firstClass,1166.1,IndiGo,03/12/2020,Bilaspur,Hisar,6022.62,06:41,05:25,12:06,6E696,4194,economic,712.64,Akasa Air,11/04/2021,Hisar,Bilaspur,6022.62,06:41,10:36,17:17,QP1731
+4194,41,economic,712.64,Akasa Air,11/04/2021,Hisar,Bilaspur,6022.62,06:41,10:36,17:17,QP1731,4108,firstClass,1166.1,IndiGo,03/12/2020,Bilaspur,Hisar,6022.62,06:41,05:25,12:06,6E696
+4381,44,economic,852.18,SpiceJet,18/06/2020,Hisar,Khowai,6682.72,07:25,19:16,02:41,SG7021,4385,firstClass,904.0,GoAir,16/07/2020,Khowai,Hisar,6682.72,07:25,03:12,10:37,G81338
+4385,44,firstClass,904.0,GoAir,16/07/2020,Khowai,Hisar,6682.72,07:25,03:12,10:37,G81338,4381,economic,852.18,SpiceJet,18/06/2020,Hisar,Khowai,6682.72,07:25,19:16,02:41,SG7021
+5206,52,economic,538.95,IndiGo,19/11/2020,Bhopal,Puri,951.91,01:03,10:51,11:54,6E640C,5268,premium,670.13,Akasa Air,27/01/2022,Puri,Bhopal,951.91,01:03,06:25,07:28,QP1670C
+5268,52,premium,670.13,Akasa Air,27/01/2022,Puri,Bhopal,951.91,01:03,06:25,07:28,QP1670C,5206,economic,538.95,IndiGo,19/11/2020,Bhopal,Puri,951.91,01:03,10:51,11:54,6E640C
+5372,54,premium,657.87,Air India,13/02/2020,Bhubaneswar,Puri,52.73,00:03,08:59,09:02,AI228B,5404,premium,457.95,Air India,24/09/2020,Puri,Bhubaneswar,52.73,00:03,17:24,17:27,AI564E
+5404,54,premium,457.95,Air India,24/09/2020,Puri,Bhubaneswar,52.73,00:03,17:24,17:27,AI564E,5372,premium,657.87,Air India,13/02/2020,Bhubaneswar,Puri,52.73,00:03,08:59,09:02,AI228B
+5472,55,firstClass,1470.41,SpiceJet,20/02/2020,Puducherry,Delhi NCR,1881.72,02:05,22:09,00:14,SG1337,5511,firstClass,1124.11,IndiGo,19/11/2020,Delhi NCR,Puducherry,1881.72,02:05,07:38,09:43,6E370C
+5511,55,firstClass,1124.11,IndiGo,19/11/2020,Delhi NCR,Puducherry,1881.72,02:05,07:38,09:43,6E370C,5472,firstClass,1470.41,SpiceJet,20/02/2020,Puducherry,Delhi NCR,1881.72,02:05,22:09,00:14,SG1337
+5587,56,firstClass,1706.89,GoAir,19/12/2019,Hisar,Navi Mumbai,5467.58,06:04,17:55,23:59,G81638B,5670,premium,1007.72,IndiGo,22/07/2021,Navi Mumbai,Hisar,5467.58,06:04,20:30,02:34,6E330C
+5670,56,premium,1007.72,IndiGo,22/07/2021,Navi Mumbai,Hisar,5467.58,06:04,20:30,02:34,6E330C,5587,firstClass,1706.89,GoAir,19/12/2019,Hisar,Navi Mumbai,5467.58,06:04,17:55,23:59,G81638B
+6288,62,premium,1249.83,SpiceJet,14/01/2021,Chennai,Kota,3333.78,03:42,12:21,16:03,SG4192,6292,firstClass,1499.93,GoAir,02/11/2021,Kota,Chennai,3333.78,03:42,10:18,14:00,G81475B
+6292,62,firstClass,1499.93,GoAir,02/11/2021,Kota,Chennai,3333.78,03:42,10:18,14:00,G81475B,6288,premium,1249.83,SpiceJet,14/01/2021,Chennai,Kota,3333.78,03:42,12:21,16:03,SG4192
+6385,63,firstClass,1470.41,SpiceJet,11/07/2019,Thiruvananthapuram,Vijayawada,977.99,01:05,21:57,23:02,SG3985,6422,economic,371.04,Akasa Air,23/07/2020,Vijayawada,Thiruvananthapuram,977.99,01:05,21:51,22:56,QP1993
+6399,63,premium,568.38,Air India,13/02/2020,Coimbatore,Nashik,1055.99,01:10,03:59,05:09,AI938D,6502,firstClass,1088.87,GoAir,02/03/2022,Nashik,Coimbatore,1055.99,01:10,00:42,01:52,G81412C
+6422,63,economic,371.04,Akasa Air,23/07/2020,Vijayawada,Thiruvananthapuram,977.99,01:05,21:51,22:56,QP1993,6385,firstClass,1470.41,SpiceJet,11/07/2019,Thiruvananthapuram,Vijayawada,977.99,01:05,21:57,23:02,SG3985
+6502,63,firstClass,1088.87,GoAir,02/03/2022,Nashik,Coimbatore,1055.99,01:10,00:42,01:52,G81412C,6399,premium,568.38,Air India,13/02/2020,Coimbatore,Nashik,1055.99,01:10,03:59,05:09,AI938D
+6765,65,economic,344.26,Air India,12/10/2020,Navi Mumbai,Ahmedabad,445.78,00:29,05:00,05:29,AI425,6782,firstClass,1470.41,SpiceJet,04/08/2021,Ahmedabad,Navi Mumbai,445.78,00:29,19:04,19:33,SG5988B
+6782,65,firstClass,1470.41,SpiceJet,04/08/2021,Ahmedabad,Navi Mumbai,445.78,00:29,19:04,19:33,SG5988B,6765,economic,344.26,Air India,12/10/2020,Navi Mumbai,Ahmedabad,445.78,00:29,05:00,05:29,AI425
+7793,75,premium,1249.83,Akasa Air,23/07/2020,Delhi NCR,Ayodhya,545.38,00:36,01:54,02:30,QP1525E,7858,firstClass,1181.19,SpiceJet,21/10/2021,Ayodhya,Delhi NCR,545.38,00:36,06:52,07:28,SG4042B
+7858,75,firstClass,1181.19,SpiceJet,21/10/2021,Ayodhya,Delhi NCR,545.38,00:36,06:52,07:28,SG4042B,7793,premium,1249.83,Akasa Air,23/07/2020,Delhi NCR,Ayodhya,545.38,00:36,01:54,02:30,QP1525E
+8834,90,economic,421.2,Akasa Air,24/10/2019,Puducherry,Ahmedabad,1452.17,01:36,08:46,10:22,QP1550E,8913,firstClass,539.39,GoAir,29/04/2021,Ahmedabad,Puducherry,1452.17,01:36,02:36,04:12,G81203B
+8913,90,firstClass,539.39,GoAir,29/04/2021,Ahmedabad,Puducherry,1452.17,01:36,02:36,04:12,G81203B,8834,economic,421.2,Akasa Air,24/10/2019,Puducherry,Ahmedabad,1452.17,01:36,08:46,10:22,QP1550E
+9126,93,economic,712.64,Akasa Air,11/07/2019,Ludhiana,Dabolim,1739.21,01:55,04:33,06:28,QP1930D,9175,economic,538.95,IndiGo,15/10/2020,Dabolim,Ludhiana,1739.21,01:55,19:29,21:24,6E529
+9137,93,premium,835.21,IndiGo,23/01/2020,Hyderabad,Bilaspur,649.95,00:43,13:22,14:05,6E711F,9231,economic,380.32,Akasa Air,11/11/2021,Bilaspur,Hyderabad,649.95,00:43,04:22,05:05,QP1775
+9148,93,economic,545.95,Akasa Air,04/09/2020,Guwahati,Puducherry,2016.86,02:14,14:32,16:46,QP1214,9218,firstClass,1714.75,AirAsia India,08/12/2021,Puducherry,Guwahati,2016.86,02:14,14:39,16:53,I55739
+9175,93,economic,538.95,IndiGo,15/10/2020,Dabolim,Ludhiana,1739.21,01:55,19:29,21:24,6E529,9126,economic,712.64,Akasa Air,11/07/2019,Ludhiana,Dabolim,1739.21,01:55,04:33,06:28,QP1930D
+9218,93,firstClass,1714.75,AirAsia India,08/12/2021,Puducherry,Guwahati,2016.86,02:14,14:39,16:53,I55739,9148,economic,545.95,Akasa Air,04/09/2020,Guwahati,Puducherry,2016.86,02:14,14:32,16:46,QP1214
+9231,93,economic,380.32,Akasa Air,11/11/2021,Bilaspur,Hyderabad,649.95,00:43,04:22,05:05,QP1775,9137,premium,835.21,IndiGo,23/01/2020,Hyderabad,Bilaspur,649.95,00:43,13:22,14:05,6E711F
+9713,96,firstClass,539.39,AirAsia India,09/02/2021,Itanagar,Coimbatore,2495.63,02:46,11:39,14:25,I52854,9724,firstClass,1487.52,IndiGo,18/11/2021,Coimbatore,Itanagar,2495.63,02:46,21:58,00:44,6E975
+9724,96,firstClass,1487.52,IndiGo,18/11/2021,Coimbatore,Itanagar,2495.63,02:46,21:58,00:44,6E975,9713,firstClass,539.39,AirAsia India,09/02/2021,Itanagar,Coimbatore,2495.63,02:46,11:39,14:25,I52854
+10472,105,firstClass,1665.24,Akasa Air,08/11/2022,Coimbatore,Pune,899.88,00:59,02:41,03:40,QP1292B,10477,firstClass,1371.83,SpiceJet,15/09/2022,Pune,Coimbatore,899.88,00:59,03:53,04:52,SG5522
+10477,105,firstClass,1371.83,SpiceJet,15/09/2022,Pune,Coimbatore,899.88,00:59,03:53,04:52,SG5522,10472,firstClass,1665.24,Akasa Air,08/11/2022,Coimbatore,Pune,899.88,00:59,02:41,03:40,QP1292B
+11868,116,economic,513.06,IndiGo,23/01/2020,Guwahati,Visakhapatnam,1291.75,01:26,17:44,19:10,6E395B,11947,economic,548.62,SpiceJet,29/07/2021,Visakhapatnam,Guwahati,1291.75,01:26,00:39,02:05,SG5579
+11947,116,economic,548.62,SpiceJet,29/07/2021,Visakhapatnam,Guwahati,1291.75,01:26,00:39,02:05,SG5579,11868,economic,513.06,IndiGo,23/01/2020,Guwahati,Visakhapatnam,1291.75,01:26,17:44,19:10,6E395B
+11992,117,premium,474.6,IndiGo,23/07/2020,Prayagraj,Kolkata,735.59,00:49,10:11,11:00,6E150B,12021,firstClass,1612.39,IndiGo,02/11/2021,Kolkata,Prayagraj,735.59,00:49,17:45,18:34,6E297C
+12021,117,firstClass,1612.39,IndiGo,02/11/2021,Kolkata,Prayagraj,735.59,00:49,17:45,18:34,6E297C,11992,premium,474.6,IndiGo,23/07/2020,Prayagraj,Kolkata,735.59,00:49,10:11,11:00,6E150B
+12377,120,economic,803.39,Akasa Air,04/02/2020,Amritsar,Bengaluru,2092.35,02:19,00:24,02:43,QP1882C,12449,firstClass,1582.41,SpiceJet,19/08/2021,Bengaluru,Amritsar,2092.35,02:19,15:59,18:18,SG5400
+12449,120,firstClass,1582.41,SpiceJet,19/08/2021,Bengaluru,Amritsar,2092.35,02:19,15:59,18:18,SG5400,12377,economic,803.39,Akasa Air,04/02/2020,Amritsar,Bengaluru,2092.35,02:19,00:24,02:43,QP1882C
+13120,129,economic,583.6,Air India,05/07/2020,Vadodara,Bhubaneswar,1326.97,01:28,10:47,12:15,AI709B,13122,firstClass,1582.41,Akasa Air,21/05/2020,Bhubaneswar,Vadodara,1326.97,01:28,14:13,15:41,QP1120
+13122,129,firstClass,1582.41,Akasa Air,21/05/2020,Bhubaneswar,Vadodara,1326.97,01:28,14:13,15:41,QP1120,13120,economic,583.6,Air India,05/07/2020,Vadodara,Bhubaneswar,1326.97,01:28,10:47,12:15,AI709B
+13381,132,firstClass,752.27,Akasa Air,10/10/2019,Bengaluru,Dehradun,1930.04,02:08,00:05,02:13,QP1085,13400,firstClass,980.83,Akasa Air,20/02/2020,Dehradun,Bengaluru,1930.04,02:08,15:49,17:57,QP1759E
+13385,132,firstClass,669.83,IndiGo,11/07/2019,Visakhapatnam,Ahmedabad,1255.45,01:23,22:30,23:53,6E415,13411,firstClass,898.04,AirAsia India,05/07/2020,Ahmedabad,Visakhapatnam,1255.45,01:23,00:04,01:27,I56821
+13400,132,firstClass,980.83,Akasa Air,20/02/2020,Dehradun,Bengaluru,1930.04,02:08,15:49,17:57,QP1759E,13381,firstClass,752.27,Akasa Air,10/10/2019,Bengaluru,Dehradun,1930.04,02:08,00:05,02:13,QP1085
+13411,132,firstClass,898.04,AirAsia India,05/07/2020,Ahmedabad,Visakhapatnam,1255.45,01:23,00:04,01:27,I56821,13385,firstClass,669.83,IndiGo,11/07/2019,Visakhapatnam,Ahmedabad,1255.45,01:23,22:30,23:53,6E415
+13636,134,economic,371.04,SpiceJet,25/03/2021,Ahmedabad,Raipur,952.67,01:03,02:01,03:04,SG8456,13675,firstClass,1183.57,IndiGo,23/12/2021,Raipur,Ahmedabad,952.67,01:03,03:59,05:02,6E756
+13675,134,firstClass,1183.57,IndiGo,23/12/2021,Raipur,Ahmedabad,952.67,01:03,03:59,05:02,6E756,13636,economic,371.04,SpiceJet,25/03/2021,Ahmedabad,Raipur,952.67,01:03,02:01,03:04,SG8456
+13808,137,premium,932.22,Akasa Air,01/09/2020,Bengaluru,Srinagar,2364.58,02:37,13:18,15:55,QP1550C,13815,economic,750.92,IndiGo,27/02/2020,Srinagar,Bengaluru,2364.58,02:37,17:12,19:49,6E107
+13815,137,economic,750.92,IndiGo,27/02/2020,Srinagar,Bengaluru,2364.58,02:37,17:12,19:49,6E107,13808,premium,932.22,Akasa Air,01/09/2020,Bengaluru,Srinagar,2364.58,02:37,13:18,15:55,QP1550C
+13919,138,premium,638.63,Akasa Air,19/12/2019,Ayodhya,Shimla,685.0,00:45,10:35,11:20,QP1500G,13934,firstClass,1354.53,Air India,04/02/2020,Shimla,Ayodhya,685.0,00:45,19:58,20:43,AI366
+13934,138,firstClass,1354.53,Air India,04/02/2020,Shimla,Ayodhya,685.0,00:45,19:58,20:43,AI366,13919,premium,638.63,Akasa Air,19/12/2019,Ayodhya,Shimla,685.0,00:45,10:35,11:20,QP1500G
+14549,146,economic,663.23,Akasa Air,16/01/2020,Pune,Kullu-Manali,1521.61,01:41,06:18,07:59,QP1669C,14617,economic,301.51,IndiGo,05/06/2021,Kullu-Manali,Pune,1521.61,01:41,00:11,01:52,6E752
+14617,146,economic,301.51,IndiGo,05/06/2021,Kullu-Manali,Pune,1521.61,01:41,00:11,01:52,6E752,14549,economic,663.23,Akasa Air,16/01/2020,Pune,Kullu-Manali,1521.61,01:41,06:18,07:59,QP1669C
+14661,146,firstClass,957.68,IndiGo,03/10/2022,Thiruvananthapuram,Nashik,1324.36,01:28,07:01,08:29,6E774,14717,economic,921.08,Akasa Air,04/06/2023,Nashik,Thiruvananthapuram,1324.36,01:28,00:49,02:17,QP1445
+14717,146,economic,921.08,Akasa Air,04/06/2023,Nashik,Thiruvananthapuram,1324.36,01:28,00:49,02:17,QP1445,14661,firstClass,957.68,IndiGo,03/10/2022,Thiruvananthapuram,Nashik,1324.36,01:28,07:01,08:29,6E774
+15005,149,firstClass,752.27,Akasa Air,04/01/2021,Gangtok,Bengaluru,1964.74,02:10,20:36,22:46,QP1159B,15035,economic,360.22,Akasa Air,28/10/2021,Bengaluru,Gangtok,1964.74,02:10,08:08,10:18,QP1976B
+15017,149,firstClass,756.3,GoAir,24/06/2021,Jaipur,Patna,943.53,01:02,08:15,09:17,G81300B,15037,firstClass,709.25,Air India,11/11/2021,Patna,Jaipur,943.53,01:02,06:06,07:08,AI200B
+15035,149,economic,360.22,Akasa Air,28/10/2021,Bengaluru,Gangtok,1964.74,02:10,08:08,10:18,QP1976B,15005,firstClass,752.27,Akasa Air,04/01/2021,Gangtok,Bengaluru,1964.74,02:10,20:36,22:46,QP1159B
+15037,149,firstClass,709.25,Air India,11/11/2021,Patna,Jaipur,943.53,01:02,06:06,07:08,AI200B,15017,firstClass,756.3,GoAir,24/06/2021,Jaipur,Patna,943.53,01:02,08:15,09:17,G81300B
+15489,155,firstClass,1300.81,AirAsia India,31/10/2019,Ahmedabad,Pune,518.11,00:34,04:45,05:19,I55017,15529,economic,964.83,Air India,08/06/2020,Pune,Ahmedabad,518.11,00:34,02:59,03:33,AI246B
+15520,155,premium,1351.89,SpiceJet,06/04/2020,Kolkata,Shillong,489.31,00:32,05:04,05:36,SG4156,15582,firstClass,1611.14,Akasa Air,08/12/2021,Shillong,Kolkata,489.31,00:32,08:10,08:42,QP1484B
+15529,155,economic,964.83,Air India,08/06/2020,Pune,Ahmedabad,518.11,00:34,02:59,03:33,AI246B,15489,firstClass,1300.81,AirAsia India,31/10/2019,Ahmedabad,Pune,518.11,00:34,04:45,05:19,I55017
+15582,155,firstClass,1611.14,Akasa Air,08/12/2021,Shillong,Kolkata,489.31,00:32,08:10,08:42,QP1484B,15520,premium,1351.89,SpiceJet,06/04/2020,Kolkata,Shillong,489.31,00:32,05:04,05:36,SG4156
+15809,157,premium,1270.03,Air India,23/01/2020,Hisar,Vijayawada,6273.48,06:58,15:03,22:01,AI884B,15831,economic,472.72,Air India,25/06/2020,Vijayawada,Hisar,6273.48,06:58,03:08,10:06,AI886
+15831,157,economic,472.72,Air India,25/06/2020,Vijayawada,Hisar,6273.48,06:58,03:08,10:06,AI886,15809,premium,1270.03,Air India,23/01/2020,Hisar,Vijayawada,6273.48,06:58,15:03,22:01,AI884B
+16006,158,premium,832.77,SpiceJet,02/04/2021,Vadodara,Chennai,1268.27,01:24,02:18,03:42,SG7527,16077,premium,965.62,SpiceJet,16/06/2022,Chennai,Vadodara,1268.27,01:24,22:07,23:31,SG4908B
+16077,158,premium,965.62,SpiceJet,16/06/2022,Chennai,Vadodara,1268.27,01:24,22:07,23:31,SG4908B,16006,premium,832.77,SpiceJet,02/04/2021,Vadodara,Chennai,1268.27,01:24,02:18,03:42,SG7527
+16808,168,firstClass,633.71,AirAsia India,18/02/2021,Bengaluru,Dhubri,1944.48,02:09,03:11,05:20,I54181,16851,firstClass,1110.76,Air India,16/12/2021,Dhubri,Bengaluru,1944.48,02:09,12:06,14:15,AI926B
+16851,168,firstClass,1110.76,Air India,16/12/2021,Dhubri,Bengaluru,1944.48,02:09,12:06,14:15,AI926B,16808,firstClass,633.71,AirAsia India,18/02/2021,Bengaluru,Dhubri,1944.48,02:09,03:11,05:20,I54181
+17150,171,premium,831.7,IndiGo,12/12/2019,Kullu-Manali,Imphal,1818.49,02:01,07:49,09:50,6E109C,17175,premium,750.0,Akasa Air,06/04/2020,Imphal,Kullu-Manali,1818.49,02:01,05:10,07:11,QP1604B
+17175,171,premium,750.0,Akasa Air,06/04/2020,Imphal,Kullu-Manali,1818.49,02:01,05:10,07:11,QP1604B,17150,premium,831.7,IndiGo,12/12/2019,Kullu-Manali,Imphal,1818.49,02:01,07:49,09:50,6E109C
+17324,174,premium,1007.72,IndiGo,26/12/2019,Chandigarh,Gangtok,1209.73,01:20,13:03,14:23,6E237E,17343,premium,750.0,SpiceJet,05/07/2020,Gangtok,Chandigarh,1209.73,01:20,15:07,16:27,SG5315
+17343,174,premium,750.0,SpiceJet,05/07/2020,Gangtok,Chandigarh,1209.73,01:20,15:07,16:27,SG5315,17324,premium,1007.72,IndiGo,26/12/2019,Chandigarh,Gangtok,1209.73,01:20,13:03,14:23,6E237E
+18141,180,firstClass,1110.76,Air India,10/03/2019,Dehradun,Patna,873.23,00:58,12:47,13:45,AI539D,18265,firstClass,1434.38,GoAir,17/02/2022,Patna,Dehradun,873.23,00:58,05:39,06:37,G81049
+18202,180,firstClass,1434.38,GoAir,12/03/2020,Mopa,Bilaspur,8261.64,09:10,08:22,17:32,G81043,18203,premium,1288.79,Air India,12/10/2020,Bilaspur,Mopa,8261.64,09:10,09:32,18:42,AI367
+18203,180,premium,1288.79,Air India,12/10/2020,Bilaspur,Mopa,8261.64,09:10,09:32,18:42,AI367,18202,firstClass,1434.38,GoAir,12/03/2020,Mopa,Bilaspur,8261.64,09:10,08:22,17:32,G81043
+18265,180,firstClass,1434.38,GoAir,17/02/2022,Patna,Dehradun,873.23,00:58,05:39,06:37,G81049,18141,firstClass,1110.76,Air India,10/03/2019,Dehradun,Patna,873.23,00:58,12:47,13:45,AI539D
+18380,182,premium,670.13,SpiceJet,21/11/2019,Ahmedabad,Prayagraj,976.02,01:05,21:30,22:35,SG7131,18382,premium,987.07,Air India,12/05/2019,Prayagraj,Ahmedabad,976.02,01:05,18:01,19:06,AI812C
+18382,182,premium,987.07,Air India,12/05/2019,Prayagraj,Ahmedabad,976.02,01:05,18:01,19:06,AI812C,18380,premium,670.13,SpiceJet,21/11/2019,Ahmedabad,Prayagraj,976.02,01:05,21:30,22:35,SG7131
+18462,182,economic,533.8,SpiceJet,17/06/2021,Shimla,Tirupati,1956.06,02:10,11:26,13:36,SG5784,18475,economic,513.06,Air India,16/09/2021,Tirupati,Shimla,1956.06,02:10,07:35,09:45,AI532
+18475,182,economic,513.06,Air India,16/09/2021,Tirupati,Shimla,1956.06,02:10,07:35,09:45,AI532,18462,economic,533.8,SpiceJet,17/06/2021,Shimla,Tirupati,1956.06,02:10,11:26,13:36,SG5784
+18556,183,premium,1270.03,Air India,21/01/2021,Mopa,Raigarh,8390.44,09:19,08:02,17:21,AI142,18648,premium,568.38,Air India,27/10/2022,Raigarh,Mopa,8390.44,09:19,20:32,05:51,AI209
+18648,183,premium,568.38,Air India,27/10/2022,Raigarh,Mopa,8390.44,09:19,20:32,05:51,AI209,18556,premium,1270.03,Air India,21/01/2021,Mopa,Raigarh,8390.44,09:19,08:02,17:21,AI142
+19100,187,economic,629.54,Akasa Air,13/05/2021,Jamshedpur,Bilaspur,421.89,00:28,18:42,19:10,QP1777,19156,firstClass,1189.86,SpiceJet,06/09/2022,Bilaspur,Jamshedpur,421.89,00:28,14:09,14:37,SG6771
+19156,187,firstClass,1189.86,SpiceJet,06/09/2022,Bilaspur,Jamshedpur,421.89,00:28,14:09,14:37,SG6771,19100,economic,629.54,Akasa Air,13/05/2021,Jamshedpur,Bilaspur,421.89,00:28,18:42,19:10,QP1777
+21681,212,premium,427.25,SpiceJet,20/08/2020,Dehradun,Gangtok,1082.57,01:12,10:59,12:11,SG1580,21703,economic,721.2,Akasa Air,21/01/2021,Gangtok,Dehradun,1082.57,01:12,22:00,23:12,QP1479B
+21703,212,economic,721.2,Akasa Air,21/01/2021,Gangtok,Dehradun,1082.57,01:12,22:00,23:12,QP1479B,21681,premium,427.25,SpiceJet,20/08/2020,Dehradun,Gangtok,1082.57,01:12,10:59,12:11,SG1580
+22000,216,firstClass,633.71,GoAir,01/02/2020,Coimbatore,Mopa,7784.51,08:38,01:02,09:40,G81674C,22073,firstClass,1612.39,Air India,27/05/2021,Mopa,Coimbatore,7784.51,08:38,14:17,22:55,AI440
+22073,216,firstClass,1612.39,Air India,27/05/2021,Mopa,Coimbatore,7784.51,08:38,14:17,22:55,AI440,22000,firstClass,633.71,GoAir,01/02/2020,Coimbatore,Mopa,7784.51,08:38,01:02,09:40,G81674C
+22753,222,premium,440.69,Akasa Air,12/02/2021,Thiruvananthapuram,Vijayawada,977.99,01:05,14:21,15:26,QP1781D,22759,firstClass,772.21,Akasa Air,13/01/2022,Vijayawada,Thiruvananthapuram,977.99,01:05,04:58,06:03,QP1993
+22759,222,firstClass,772.21,Akasa Air,13/01/2022,Vijayawada,Thiruvananthapuram,977.99,01:05,04:58,06:03,QP1993,22753,premium,440.69,Akasa Air,12/02/2021,Thiruvananthapuram,Vijayawada,977.99,01:05,14:21,15:26,QP1781D
+23364,229,premium,1070.54,SpiceJet,10/01/2020,Gwalior,Dehradun,455.5,00:30,05:38,06:08,SG7607,23376,firstClass,1069.12,Akasa Air,24/12/2020,Dehradun,Gwalior,455.5,00:30,00:34,01:04,QP1760D
+23376,229,firstClass,1069.12,Akasa Air,24/12/2020,Dehradun,Gwalior,455.5,00:30,00:34,01:04,QP1760D,23364,premium,1070.54,SpiceJet,10/01/2020,Gwalior,Dehradun,455.5,00:30,05:38,06:08,SG7607
+24762,241,premium,1021.53,IndiGo,02/11/2021,Itanagar,Mumbai,2295.82,02:33,12:38,15:11,6E371,24886,firstClass,1376.09,GoAir,29/06/2023,Mumbai,Itanagar,2295.82,02:33,00:32,03:05,G81423E
+24803,241,firstClass,1434.38,AirAsia India,25/11/2021,Diu,Prayagraj,1228.59,01:21,16:08,17:29,I55253,24842,firstClass,1723.71,Akasa Air,25/08/2022,Prayagraj,Diu,1228.59,01:21,12:49,14:10,QP1930F
+24842,241,firstClass,1723.71,Akasa Air,25/08/2022,Prayagraj,Diu,1228.59,01:21,12:49,14:10,QP1930F,24803,firstClass,1434.38,AirAsia India,25/11/2021,Diu,Prayagraj,1228.59,01:21,16:08,17:29,I55253
+24886,241,firstClass,1376.09,GoAir,29/06/2023,Mumbai,Itanagar,2295.82,02:33,00:32,03:05,G81423E,24762,premium,1021.53,IndiGo,02/11/2021,Itanagar,Mumbai,2295.82,02:33,12:38,15:11,6E371
+25199,243,premium,1174.97,IndiGo,30/06/2022,Mopa,Chandigarh,7727.09,08:35,02:25,11:00,6E980,25213,premium,474.6,IndiGo,10/06/2022,Chandigarh,Mopa,7727.09,08:35,01:47,10:22,6E723C
+25213,243,premium,474.6,IndiGo,10/06/2022,Chandigarh,Mopa,7727.09,08:35,01:47,10:22,6E723C,25199,premium,1174.97,IndiGo,30/06/2022,Mopa,Chandigarh,7727.09,08:35,02:25,11:00,6E980
+25363,245,economic,964.83,IndiGo,04/02/2020,Bhubaneswar,Puducherry,1127.04,01:15,01:26,02:41,6E117D,25436,economic,717.04,IndiGo,26/08/2021,Puducherry,Bhubaneswar,1127.04,01:15,02:57,04:12,6E355E
+25436,245,economic,717.04,IndiGo,26/08/2021,Puducherry,Bhubaneswar,1127.04,01:15,02:57,04:12,6E355E,25363,economic,964.83,IndiGo,04/02/2020,Bhubaneswar,Puducherry,1127.04,01:15,01:26,02:41,6E117D
+25976,250,premium,630.34,IndiGo,16/04/2020,Vadodara,Udaipur,259.41,00:17,13:20,13:37,6E577C,25984,economic,726.19,SpiceJet,06/11/2020,Udaipur,Vadodara,259.41,00:17,01:32,01:49,SG7666
+25984,250,economic,726.19,SpiceJet,06/11/2020,Udaipur,Vadodara,259.41,00:17,01:32,01:49,SG7666,25976,premium,630.34,IndiGo,16/04/2020,Vadodara,Udaipur,259.41,00:17,13:20,13:37,6E577C
+26193,251,premium,831.7,IndiGo,05/06/2021,Ludhiana,Udaipur,734.24,00:48,13:43,14:31,6E881D,26242,firstClass,1470.41,SpiceJet,14/04/2022,Udaipur,Ludhiana,734.24,00:48,19:46,20:34,SG1993
+26242,251,firstClass,1470.41,SpiceJet,14/04/2022,Udaipur,Ludhiana,734.24,00:48,19:46,20:34,SG1993,26193,premium,831.7,IndiGo,05/06/2021,Ludhiana,Udaipur,734.24,00:48,13:43,14:31,6E881D
+26701,258,firstClass,1723.71,Akasa Air,26/09/2019,Bhubaneswar,Ranchi,345.72,00:23,06:18,06:41,QP1444B,26787,firstClass,752.27,Akasa Air,20/05/2021,Ranchi,Bhubaneswar,345.72,00:23,01:21,01:44,QP1976
+26787,258,firstClass,752.27,Akasa Air,20/05/2021,Ranchi,Bhubaneswar,345.72,00:23,01:21,01:44,QP1976,26701,firstClass,1723.71,Akasa Air,26/09/2019,Bhubaneswar,Ranchi,345.72,00:23,06:18,06:41,QP1444B
+27159,261,premium,930.12,SpiceJet,12/10/2020,Itanagar,Ayodhya,1130.61,01:15,19:17,20:32,SG2096,27205,firstClass,1371.83,Akasa Air,28/10/2021,Ayodhya,Itanagar,1130.61,01:15,23:46,01:01,QP1339D
+27205,261,firstClass,1371.83,Akasa Air,28/10/2021,Ayodhya,Itanagar,1130.61,01:15,23:46,01:01,QP1339D,27159,premium,930.12,SpiceJet,12/10/2020,Itanagar,Ayodhya,1130.61,01:15,19:17,20:32,SG2096
+27557,264,firstClass,957.68,Air India,23/09/2021,Gwalior,Kolkata,1109.04,01:13,12:40,13:53,AI852C,27631,premium,932.22,Akasa Air,23/02/2023,Kolkata,Gwalior,1109.04,01:13,14:55,16:08,QP1912
+27631,264,premium,932.22,Akasa Air,23/02/2023,Kolkata,Gwalior,1109.04,01:13,14:55,16:08,QP1912,27557,firstClass,957.68,Air India,23/09/2021,Gwalior,Kolkata,1109.04,01:13,12:40,13:53,AI852C
+28039,268,economic,301.51,IndiGo,04/02/2020,Amritsar,Ahmedabad,982.17,01:05,14:58,16:03,6E824C,28139,firstClass,539.39,GoAir,03/03/2022,Ahmedabad,Amritsar,982.17,01:05,10:05,11:10,G81802
+28139,268,firstClass,539.39,GoAir,03/03/2022,Ahmedabad,Amritsar,982.17,01:05,10:05,11:10,G81802,28039,economic,301.51,IndiGo,04/02/2020,Amritsar,Ahmedabad,982.17,01:05,14:58,16:03,6E824C
+28674,274,firstClass,1389.37,IndiGo,10/01/2020,Vijayawada,Itanagar,1779.49,01:58,16:31,18:29,6E616,28692,firstClass,628.96,SpiceJet,02/04/2021,Itanagar,Vijayawada,1779.49,01:58,12:40,14:38,SG8782
+28692,274,firstClass,628.96,SpiceJet,02/04/2021,Itanagar,Vijayawada,1779.49,01:58,12:40,14:38,SG8782,28674,firstClass,1389.37,IndiGo,10/01/2020,Vijayawada,Itanagar,1779.49,01:58,16:31,18:29,6E616
+29674,284,firstClass,1166.1,Air India,12/05/2019,Vadodara,Srinagar,1319.83,01:27,19:52,21:19,AI960,29724,economic,964.83,IndiGo,19/11/2020,Srinagar,Vadodara,1319.83,01:27,17:07,18:34,6E633D
+29724,284,economic,964.83,IndiGo,19/11/2020,Srinagar,Vadodara,1319.83,01:27,17:07,18:34,6E633D,29674,firstClass,1166.1,Air India,12/05/2019,Vadodara,Srinagar,1319.83,01:27,19:52,21:19,AI960
+29782,284,economic,538.95,Air India,30/12/2021,Puducherry,Hisar,6534.35,07:15,20:10,03:25,AI830C,29794,premium,1242.65,IndiGo,24/03/2022,Hisar,Puducherry,6534.35,07:15,12:44,19:59,6E784
+29794,284,premium,1242.65,IndiGo,24/03/2022,Hisar,Puducherry,6534.35,07:15,12:44,19:59,6E784,29782,economic,538.95,Air India,30/12/2021,Puducherry,Hisar,6534.35,07:15,20:10,03:25,AI830C
+29887,285,firstClass,1434.38,GoAir,06/11/2020,Pune,Mysuru,753.37,00:50,19:09,19:59,G81402D,29917,firstClass,1088.87,GoAir,01/07/2021,Mysuru,Pune,753.37,00:50,11:48,12:38,G81456
+29917,285,firstClass,1088.87,GoAir,01/07/2021,Mysuru,Pune,753.37,00:50,11:48,12:38,G81456,29887,firstClass,1434.38,GoAir,06/11/2020,Pune,Mysuru,753.37,00:50,19:09,19:59,G81402D
+29992,287,premium,1132.81,SpiceJet,27/02/2020,Chandigarh,Chennai,1994.79,02:12,18:25,20:37,SG3460B,30039,premium,559.13,SpiceJet,21/01/2021,Chennai,Chandigarh,1994.79,02:12,04:41,06:53,SG7553B
+30039,287,premium,559.13,SpiceJet,21/01/2021,Chennai,Chandigarh,1994.79,02:12,04:41,06:53,SG7553B,29992,premium,1132.81,SpiceJet,27/02/2020,Chandigarh,Chennai,1994.79,02:12,18:25,20:37,SG3460B
+30080,287,firstClass,1313.76,IndiGo,11/04/2021,Khowai,Imphal,251.02,00:16,17:43,17:59,6E448C,30097,premium,670.13,SpiceJet,03/03/2022,Imphal,Khowai,251.02,00:16,05:06,05:22,SG1524
+30097,287,premium,670.13,SpiceJet,03/03/2022,Imphal,Khowai,251.02,00:16,05:06,05:22,SG1524,30080,firstClass,1313.76,IndiGo,11/04/2021,Khowai,Imphal,251.02,00:16,17:43,17:59,6E448C
+30438,290,firstClass,804.24,IndiGo,27/02/2020,Thiruvananthapuram,Tirupati,632.91,00:42,17:45,18:27,6E284B,30530,firstClass,1484.94,IndiGo,12/02/2021,Tirupati,Thiruvananthapuram,632.91,00:42,01:51,02:33,6E982
+30530,290,firstClass,1484.94,IndiGo,12/02/2021,Tirupati,Thiruvananthapuram,632.91,00:42,01:51,02:33,6E982,30438,firstClass,804.24,IndiGo,27/02/2020,Thiruvananthapuram,Tirupati,632.91,00:42,17:45,18:27,6E284B
+30977,296,economic,533.8,Akasa Air,12/12/2019,Kolkata,Gangtok,530.23,00:35,10:37,11:12,QP1446C,31079,firstClass,1110.76,Air India,25/11/2021,Gangtok,Kolkata,530.23,00:35,23:04,23:39,AI571B
+31079,296,firstClass,1110.76,Air India,25/11/2021,Gangtok,Kolkata,530.23,00:35,23:04,23:39,AI571B,30977,economic,533.8,Akasa Air,12/12/2019,Kolkata,Gangtok,530.23,00:35,10:37,11:12,QP1446C
+31821,306,firstClass,1183.57,Air India,02/06/2020,Ayodhya,Vadodara,1037.96,01:09,12:14,13:23,AI266C,31860,economic,548.62,Akasa Air,11/05/2020,Vadodara,Ayodhya,1037.96,01:09,16:01,17:10,QP1181B
+31860,306,economic,548.62,Akasa Air,11/05/2020,Vadodara,Ayodhya,1037.96,01:09,16:01,17:10,QP1181B,31821,firstClass,1183.57,Air India,02/06/2020,Ayodhya,Vadodara,1037.96,01:09,12:14,13:23,AI266C
+32115,308,economic,964.83,Air India,16/07/2020,Surat,Itanagar,2204.62,02:26,01:00,03:26,AI540B,32216,premium,1021.53,Air India,23/06/2022,Itanagar,Surat,2204.62,02:26,23:07,01:33,AI710
+32216,308,premium,1021.53,Air India,23/06/2022,Itanagar,Surat,2204.62,02:26,23:07,01:33,AI710,32115,economic,964.83,Air India,16/07/2020,Surat,Itanagar,2204.62,02:26,01:00,03:26,AI540B
+32411,312,firstClass,1376.09,AirAsia India,30/04/2020,Mumbai,Coimbatore,998.29,01:06,09:27,10:33,I57873,32524,premium,1021.53,Air India,30/06/2022,Coimbatore,Mumbai,998.29,01:06,23:07,00:13,AI459C
+32524,312,premium,1021.53,Air India,30/06/2022,Coimbatore,Mumbai,998.29,01:06,23:07,00:13,AI459C,32411,firstClass,1376.09,AirAsia India,30/04/2020,Mumbai,Coimbatore,998.29,01:06,09:27,10:33,I57873
+32654,314,firstClass,1582.41,SpiceJet,10/01/2020,Varanasi,Khowai,879.17,00:58,01:08,02:06,SG4584,32752,economic,604.14,IndiGo,18/08/2022,Khowai,Varanasi,879.17,00:58,01:45,02:43,6E213
+32673,314,firstClass,1612.39,IndiGo,02/11/2021,Diu,Gwalior,955.7,01:03,15:37,16:40,6E898C,32697,economic,360.22,Akasa Air,29/07/2021,Gwalior,Diu,955.7,01:03,14:25,15:28,QP1214D
+32697,314,economic,360.22,Akasa Air,29/07/2021,Gwalior,Diu,955.7,01:03,14:25,15:28,QP1214D,32673,firstClass,1612.39,IndiGo,02/11/2021,Diu,Gwalior,955.7,01:03,15:37,16:40,6E898C
+32752,314,economic,604.14,IndiGo,18/08/2022,Khowai,Varanasi,879.17,00:58,01:45,02:43,6E213,32654,firstClass,1582.41,SpiceJet,10/01/2020,Varanasi,Khowai,879.17,00:58,01:08,02:06,SG4584
+33696,323,economic,602.49,Akasa Air,12/02/2021,Indore,Imphal,1856.3,02:03,11:53,13:56,QP1514B,33723,premium,573.61,Air India,06/09/2022,Imphal,Indore,1856.3,02:03,17:14,19:17,AI294E
+33701,323,firstClass,1706.89,AirAsia India,01/06/2022,Vadodara,Indore,273.65,00:18,14:40,14:58,I57408,33713,economic,964.83,IndiGo,31/03/2022,Indore,Vadodara,273.65,00:18,14:22,14:40,6E813C
+33713,323,economic,964.83,IndiGo,31/03/2022,Indore,Vadodara,273.65,00:18,14:22,14:40,6E813C,33701,firstClass,1706.89,AirAsia India,01/06/2022,Vadodara,Indore,273.65,00:18,14:40,14:58,I57408
+33723,323,premium,573.61,Air India,06/09/2022,Imphal,Indore,1856.3,02:03,17:14,19:17,AI294E,33696,economic,602.49,Akasa Air,12/02/2021,Indore,Imphal,1856.3,02:03,11:53,13:56,QP1514B
+34370,329,economic,344.26,IndiGo,31/10/2019,Dabolim,Jamshedpur,1537.0,01:42,17:22,19:04,6E488B,34467,economic,393.68,Air India,09/09/2021,Jamshedpur,Dabolim,1537.0,01:42,04:50,06:32,AI204C
+34467,329,economic,393.68,Air India,09/09/2021,Jamshedpur,Dabolim,1537.0,01:42,04:50,06:32,AI204C,34370,economic,344.26,IndiGo,31/10/2019,Dabolim,Jamshedpur,1537.0,01:42,17:22,19:04,6E488B
+35080,337,premium,831.7,IndiGo,26/09/2019,Raipur,Chandigarh,1161.96,01:17,21:41,22:58,6E188,35098,economic,563.71,Air India,30/01/2020,Chandigarh,Raipur,1161.96,01:17,04:21,05:38,AI246D
+35098,337,economic,563.71,Air India,30/01/2020,Chandigarh,Raipur,1161.96,01:17,04:21,05:38,AI246D,35080,premium,831.7,IndiGo,26/09/2019,Raipur,Chandigarh,1161.96,01:17,21:41,22:58,6E188
+36257,346,firstClass,1088.87,AirAsia India,13/02/2020,Dehradun,Patna,873.23,00:58,20:47,21:45,I52724,36302,economic,717.04,IndiGo,24/12/2020,Patna,Dehradun,873.23,00:58,03:32,04:30,6E956
+36302,346,economic,717.04,IndiGo,24/12/2020,Patna,Dehradun,873.23,00:58,03:32,04:30,6E956,36257,firstClass,1088.87,AirAsia India,13/02/2020,Dehradun,Patna,873.23,00:58,20:47,21:45,I52724
+36435,348,premium,630.34,IndiGo,05/07/2020,Udaipur,Dhubri,1642.47,01:49,21:40,23:29,6E998B,36517,firstClass,1189.86,Akasa Air,12/02/2021,Dhubri,Udaipur,1642.47,01:49,08:18,10:07,QP1388
+36517,348,firstClass,1189.86,Akasa Air,12/02/2021,Dhubri,Udaipur,1642.47,01:49,08:18,10:07,QP1388,36435,premium,630.34,IndiGo,05/07/2020,Udaipur,Dhubri,1642.47,01:49,21:40,23:29,6E998B
+36733,351,premium,875.41,Akasa Air,11/07/2019,Jamshedpur,Patna,328.13,00:21,20:47,21:08,QP1021B,36824,firstClass,1124.11,IndiGo,08/05/2021,Patna,Jamshedpur,328.13,00:21,04:11,04:32,6E261B
+36824,351,firstClass,1124.11,IndiGo,08/05/2021,Patna,Jamshedpur,328.13,00:21,04:11,04:32,6E261B,36733,premium,875.41,Akasa Air,11/07/2019,Jamshedpur,Patna,328.13,00:21,20:47,21:08,QP1021B
+36882,352,premium,588.14,Akasa Air,27/02/2020,Chandigarh,Patna,997.7,01:06,03:57,05:03,QP1175F,37022,premium,875.41,Akasa Air,11/03/2022,Patna,Chandigarh,997.7,01:06,18:38,19:44,QP1910
+36893,352,firstClass,577.71,AirAsia India,14/05/2020,Puri,Itanagar,1134.07,01:15,17:46,19:01,I55995B,36926,premium,835.21,Air India,31/12/2020,Itanagar,Puri,1134.07,01:15,15:59,17:14,AI756
+36926,352,premium,835.21,Air India,31/12/2020,Itanagar,Puri,1134.07,01:15,15:59,17:14,AI756,36893,firstClass,577.71,AirAsia India,14/05/2020,Puri,Itanagar,1134.07,01:15,17:46,19:01,I55995B
+37022,352,premium,875.41,Akasa Air,11/03/2022,Patna,Chandigarh,997.7,01:06,18:38,19:44,QP1910,36882,premium,588.14,Akasa Air,27/02/2020,Chandigarh,Patna,997.7,01:06,03:57,05:03,QP1175F
+37045,353,economic,380.32,SpiceJet,28/11/2019,Vijayawada,Bengaluru,512.14,00:34,03:55,04:29,SG6169,37066,firstClass,1487.52,IndiGo,23/04/2020,Bengaluru,Vijayawada,512.14,00:34,19:24,19:58,6E517
+37066,353,firstClass,1487.52,IndiGo,23/04/2020,Bengaluru,Vijayawada,512.14,00:34,19:24,19:58,6E517,37045,economic,380.32,SpiceJet,28/11/2019,Vijayawada,Bengaluru,512.14,00:34,03:55,04:29,SG6169
+37570,357,firstClass,1069.61,SpiceJet,02/11/2021,Ranchi,Imphal,891.45,00:59,23:10,00:09,SG1594,37620,firstClass,1260.1,IndiGo,27/01/2022,Imphal,Ranchi,891.45,00:59,12:30,13:29,6E445C
+37620,357,firstClass,1260.1,IndiGo,27/01/2022,Imphal,Ranchi,891.45,00:59,12:30,13:29,6E445C,37570,firstClass,1069.61,SpiceJet,02/11/2021,Ranchi,Imphal,891.45,00:59,23:10,00:09,SG1594
+37840,362,premium,1021.53,Air India,18/06/2020,Patna,Kota,3390.07,03:46,03:13,06:59,AI767,37901,economic,852.18,Akasa Air,19/08/2021,Kota,Patna,3390.07,03:46,09:08,12:54,QP1341D
+37901,362,economic,852.18,Akasa Air,19/08/2021,Kota,Patna,3390.07,03:46,09:08,12:54,QP1341D,37840,premium,1021.53,Air India,18/06/2020,Patna,Kota,3390.07,03:46,03:13,06:59,AI767
+38390,369,economic,869.13,IndiGo,03/12/2020,Mopa,Kolkata,8895.51,09:53,23:12,09:05,6E236B,38469,premium,832.77,Akasa Air,16/09/2021,Kolkata,Mopa,8895.51,09:53,23:29,09:22,QP1485E
+38425,369,premium,1249.83,Akasa Air,11/12/2020,Chennai,Puducherry,137.25,00:09,17:38,17:47,QP1382C,38460,economic,545.95,SpiceJet,15/07/2021,Puducherry,Chennai,137.25,00:09,10:52,11:01,SG1093
+38460,369,economic,545.95,SpiceJet,15/07/2021,Puducherry,Chennai,137.25,00:09,10:52,11:01,SG1093,38425,premium,1249.83,Akasa Air,11/12/2020,Chennai,Puducherry,137.25,00:09,17:38,17:47,QP1382C
+38469,369,premium,832.77,Akasa Air,16/09/2021,Kolkata,Mopa,8895.51,09:53,23:29,09:22,QP1485E,38390,economic,869.13,IndiGo,03/12/2020,Mopa,Kolkata,8895.51,09:53,23:12,09:05,6E236B
+38668,371,economic,921.08,Akasa Air,26/11/2020,Gwalior,Coimbatore,1697.6,01:53,03:23,05:16,QP1890B,38758,premium,1074.75,Air India,18/08/2022,Coimbatore,Gwalior,1697.6,01:53,06:53,08:46,AI298B
+38758,371,premium,1074.75,Air India,18/08/2022,Coimbatore,Gwalior,1697.6,01:53,06:53,08:46,AI298B,38668,economic,921.08,Akasa Air,26/11/2020,Gwalior,Coimbatore,1697.6,01:53,03:23,05:16,QP1890B
+38851,372,firstClass,1611.14,Akasa Air,24/12/2020,Bhubaneswar,Itanagar,1095.39,01:13,11:10,12:23,QP1861C,38958,firstClass,1069.61,SpiceJet,01/12/2023,Itanagar,Bhubaneswar,1095.39,01:13,15:27,16:40,SG8769
+38958,372,firstClass,1069.61,SpiceJet,01/12/2023,Itanagar,Bhubaneswar,1095.39,01:13,15:27,16:40,SG8769,38851,firstClass,1611.14,Akasa Air,24/12/2020,Bhubaneswar,Itanagar,1095.39,01:13,11:10,12:23,QP1861C
+40259,389,firstClass,1313.76,Air India,23/07/2020,Raigarh,Khowai,873.79,00:58,04:01,04:59,AI859B,40386,firstClass,1499.93,AirAsia India,29/12/2022,Khowai,Raigarh,873.79,00:58,09:39,10:37,I51994
+40386,389,firstClass,1499.93,AirAsia India,29/12/2022,Khowai,Raigarh,873.79,00:58,09:39,10:37,I51994,40259,firstClass,1313.76,Air India,23/07/2020,Raigarh,Khowai,873.79,00:58,04:01,04:59,AI859B
+41398,402,firstClass,1470.41,SpiceJet,11/07/2019,Chennai,Khowai,1705.2,01:53,09:49,11:42,SG3154B,41482,premium,440.69,SpiceJet,17/06/2021,Khowai,Chennai,1705.2,01:53,11:25,13:18,SG2631
+41482,402,premium,440.69,SpiceJet,17/06/2021,Khowai,Chennai,1705.2,01:53,11:25,13:18,SG2631,41398,firstClass,1470.41,SpiceJet,11/07/2019,Chennai,Khowai,1705.2,01:53,09:49,11:42,SG3154B
+43427,425,firstClass,883.63,IndiGo,26/12/2019,Guwahati,Ludhiana,1636.98,01:49,03:42,05:31,6E771B,43518,premium,1346.6,IndiGo,23/09/2021,Ludhiana,Guwahati,1636.98,01:49,02:26,04:15,6E908B
+43518,425,premium,1346.6,IndiGo,23/09/2021,Ludhiana,Guwahati,1636.98,01:49,02:26,04:15,6E908B,43427,firstClass,883.63,IndiGo,26/12/2019,Guwahati,Ludhiana,1636.98,01:49,03:42,05:31,6E771B
+43568,426,premium,831.7,IndiGo,12/12/2019,Ranchi,Ahmedabad,1300.45,01:26,19:42,21:08,6E542,43592,premium,588.14,Akasa Air,28/05/2020,Ahmedabad,Ranchi,1300.45,01:26,02:01,03:27,QP1932C
+43592,426,premium,588.14,Akasa Air,28/05/2020,Ahmedabad,Ranchi,1300.45,01:26,02:01,03:27,QP1932C,43568,premium,831.7,IndiGo,12/12/2019,Ranchi,Ahmedabad,1300.45,01:26,19:42,21:08,6E542
+44436,434,firstClass,730.43,IndiGo,11/12/2020,Srinagar,Gwalior,931.43,01:02,05:51,06:53,6E963D,44470,firstClass,992.17,Akasa Air,07/08/2021,Gwalior,Srinagar,931.43,01:02,07:53,08:55,QP1952
+44470,434,firstClass,992.17,Akasa Air,07/08/2021,Gwalior,Srinagar,931.43,01:02,07:53,08:55,QP1952,44436,firstClass,730.43,IndiGo,11/12/2020,Srinagar,Gwalior,931.43,01:02,05:51,06:53,6E963D
+44661,436,premium,750.0,SpiceJet,28/05/2020,Coimbatore,Bhubaneswar,1400.3,01:33,12:36,14:09,SG6239,44813,firstClass,691.39,AirAsia India,27/04/2023,Bhubaneswar,Coimbatore,1400.3,01:33,17:03,18:36,I52055
+44672,436,firstClass,1371.83,SpiceJet,13/08/2020,Jaipur,Patna,943.53,01:02,00:02,01:04,SG4472,44689,firstClass,1069.12,Akasa Air,12/10/2020,Patna,Jaipur,943.53,01:02,17:08,18:10,QP1597B
+44689,436,firstClass,1069.12,Akasa Air,12/10/2020,Patna,Jaipur,943.53,01:02,17:08,18:10,QP1597B,44672,firstClass,1371.83,SpiceJet,13/08/2020,Jaipur,Patna,943.53,01:02,00:02,01:04,SG4472
+44813,436,firstClass,691.39,AirAsia India,27/04/2023,Bhubaneswar,Coimbatore,1400.3,01:33,17:03,18:36,I52055,44661,premium,750.0,SpiceJet,28/05/2020,Coimbatore,Bhubaneswar,1400.3,01:33,12:36,14:09,SG6239
+45043,440,firstClass,804.24,IndiGo,17/09/2020,Raigarh,Vijayawada,665.24,00:44,15:17,16:01,6E650,45119,firstClass,1166.1,Air India,03/03/2022,Vijayawada,Raigarh,665.24,00:44,03:57,04:41,AI804
+45119,440,firstClass,1166.1,Air India,03/03/2022,Vijayawada,Raigarh,665.24,00:44,03:57,04:41,AI804,45043,firstClass,804.24,IndiGo,17/09/2020,Raigarh,Vijayawada,665.24,00:44,15:17,16:01,6E650
+45268,441,firstClass,1181.19,SpiceJet,20/01/2022,Vadodara,Shimla,1054.83,01:10,21:52,23:02,SG6657,45297,firstClass,1582.41,SpiceJet,08/11/2022,Shimla,Vadodara,1054.83,01:10,16:57,18:07,SG1416
+45297,441,firstClass,1582.41,SpiceJet,08/11/2022,Shimla,Vadodara,1054.83,01:10,16:57,18:07,SG1416,45268,firstClass,1181.19,SpiceJet,20/01/2022,Vadodara,Shimla,1054.83,01:10,21:52,23:02,SG6657
+46029,448,economic,538.95,Air India,05/12/2022,Dehradun,Gangtok,1082.57,01:12,11:30,12:42,AI169E,46071,firstClass,1723.71,Akasa Air,03/02/2023,Gangtok,Dehradun,1082.57,01:12,15:40,16:52,QP1479B
+46071,448,firstClass,1723.71,Akasa Air,03/02/2023,Gangtok,Dehradun,1082.57,01:12,15:40,16:52,QP1479B,46029,economic,538.95,Air India,05/12/2022,Dehradun,Gangtok,1082.57,01:12,11:30,12:42,AI169E
+46113,449,premium,1346.6,Air India,05/07/2020,Puducherry,Udaipur,1547.27,01:43,11:16,12:59,AI912D,46121,firstClass,1189.86,SpiceJet,07/02/2020,Udaipur,Puducherry,1547.27,01:43,09:55,11:38,SG3663
+46121,449,firstClass,1189.86,SpiceJet,07/02/2020,Udaipur,Puducherry,1547.27,01:43,09:55,11:38,SG3663,46113,premium,1346.6,Air India,05/07/2020,Puducherry,Udaipur,1547.27,01:43,11:16,12:59,AI912D
+46192,450,firstClass,1724.49,GoAir,13/02/2020,Puducherry,Varanasi,1525.15,01:41,02:00,03:41,G81233C,46247,firstClass,1685.23,Air India,03/04/2021,Varanasi,Puducherry,1525.15,01:41,23:36,01:17,AI329C
+46247,450,firstClass,1685.23,Air India,03/04/2021,Varanasi,Puducherry,1525.15,01:41,23:36,01:17,AI329C,46192,firstClass,1724.49,GoAir,13/02/2020,Puducherry,Varanasi,1525.15,01:41,02:00,03:41,G81233C
+46247,450,firstClass,1685.23,Air India,03/04/2021,Varanasi,Puducherry,1525.15,01:41,23:36,01:17,AI329C,46309,economic,654.88,Air India,05/12/2022,Puducherry,Varanasi,1525.15,01:41,10:29,12:10,AI342D
+46309,450,economic,654.88,Air India,05/12/2022,Puducherry,Varanasi,1525.15,01:41,10:29,12:10,AI342D,46247,firstClass,1685.23,Air India,03/04/2021,Varanasi,Puducherry,1525.15,01:41,23:36,01:17,AI329C
+46776,454,firstClass,732.89,IndiGo,24/03/2022,Bhopal,Mumbai,660.14,00:44,12:55,13:39,6E568C,46822,premium,1215.45,IndiGo,02/09/2023,Mumbai,Bhopal,660.14,00:44,20:50,21:34,6E760C
+46822,454,premium,1215.45,IndiGo,02/09/2023,Mumbai,Bhopal,660.14,00:44,20:50,21:34,6E760C,46776,firstClass,732.89,IndiGo,24/03/2022,Bhopal,Mumbai,660.14,00:44,12:55,13:39,6E568C
+47027,456,premium,1363.27,IndiGo,25/06/2020,Diu,Chennai,1302.03,01:26,04:14,05:40,6E585D,47107,premium,1363.27,Air India,01/06/2022,Chennai,Diu,1302.03,01:26,11:50,13:16,AI292B
+47107,456,premium,1363.27,Air India,01/06/2022,Chennai,Diu,1302.03,01:26,11:50,13:16,AI292B,47027,premium,1363.27,IndiGo,25/06/2020,Diu,Chennai,1302.03,01:26,04:14,05:40,6E585D
+47159,458,premium,991.22,Akasa Air,10/10/2019,Diu,Ahmedabad,305.78,00:20,03:37,03:57,QP1502C,47197,premium,661.32,IndiGo,07/02/2020,Ahmedabad,Diu,305.78,00:20,18:26,18:46,6E526B
+47197,458,premium,661.32,IndiGo,07/02/2020,Ahmedabad,Diu,305.78,00:20,18:26,18:46,6E526B,47159,premium,991.22,Akasa Air,10/10/2019,Diu,Ahmedabad,305.78,00:20,03:37,03:57,QP1502C
+47972,466,economic,411.05,SpiceJet,31/10/2019,Amritsar,Mysuru,2156.36,02:23,17:03,19:26,SG3844,47997,premium,652.47,Air India,23/04/2020,Mysuru,Amritsar,2156.36,02:23,04:11,06:34,AI358B
+47997,466,premium,652.47,Air India,23/04/2020,Mysuru,Amritsar,2156.36,02:23,04:11,06:34,AI358B,47972,economic,411.05,SpiceJet,31/10/2019,Amritsar,Mysuru,2156.36,02:23,17:03,19:26,SG3844
+48846,479,premium,1031.59,IndiGo,04/02/2020,Tirupati,Ayodhya,1492.11,01:39,15:50,17:29,6E151,48910,firstClass,1446.34,Air India,24/06/2021,Ayodhya,Tirupati,1492.11,01:39,16:49,18:28,AI652G
+48910,479,firstClass,1446.34,Air India,24/06/2021,Ayodhya,Tirupati,1492.11,01:39,16:49,18:28,AI652G,48846,premium,1031.59,IndiGo,04/02/2020,Tirupati,Ayodhya,1492.11,01:39,15:50,17:29,6E151
+49313,483,firstClass,1581.8,Air India,06/03/2021,Udaipur,Chandigarh,747.84,00:49,03:29,04:18,AI320C,49346,firstClass,732.89,IndiGo,20/01/2022,Chandigarh,Udaipur,747.84,00:49,04:52,05:41,6E989C
+49346,483,firstClass,732.89,IndiGo,20/01/2022,Chandigarh,Udaipur,747.84,00:49,04:52,05:41,6E989C,49313,firstClass,1581.8,Air India,06/03/2021,Udaipur,Chandigarh,747.84,00:49,03:29,04:18,AI320C
+49499,484,economic,659.43,Air India,25/03/2021,Visakhapatnam,Ranchi,666.83,00:44,11:00,11:44,AI982,49504,economic,621.36,Air India,29/04/2021,Ranchi,Visakhapatnam,666.83,00:44,21:20,22:04,AI651D
+49504,484,economic,621.36,Air India,29/04/2021,Ranchi,Visakhapatnam,666.83,00:44,21:20,22:04,AI651D,49499,economic,659.43,Air India,25/03/2021,Visakhapatnam,Ranchi,666.83,00:44,11:00,11:44,AI982
+49642,485,premium,441.34,Akasa Air,14/04/2022,Tirupati,Udaipur,1356.67,01:30,18:22,19:52,QP1067,49652,firstClass,1581.8,IndiGo,23/06/2022,Udaipur,Tirupati,1356.67,01:30,17:47,19:17,6E628B
+49652,485,firstClass,1581.8,IndiGo,23/06/2022,Udaipur,Tirupati,1356.67,01:30,17:47,19:17,6E628B,49642,premium,441.34,Akasa Air,14/04/2022,Tirupati,Udaipur,1356.67,01:30,18:22,19:52,QP1067
+50306,490,premium,834.61,SpiceJet,09/02/2021,Bhubaneswar,Gwalior,1024.85,01:08,04:00,05:08,SG6744,50329,firstClass,949.99,IndiGo,02/10/2022,Gwalior,Bhubaneswar,1024.85,01:08,16:22,17:30,6E326D
+50329,490,firstClass,949.99,IndiGo,02/10/2022,Gwalior,Bhubaneswar,1024.85,01:08,16:22,17:30,6E326D,50306,premium,834.61,SpiceJet,09/02/2021,Bhubaneswar,Gwalior,1024.85,01:08,04:00,05:08,SG6744
+50951,497,premium,691.99,SpiceJet,10/03/2019,Tirupati,Ludhiana,1955.4,02:10,14:53,17:03,SG6229,51031,firstClass,1609.81,AirAsia India,15/04/2021,Ludhiana,Tirupati,1955.4,02:10,07:40,09:50,I55023
+51031,497,firstClass,1609.81,AirAsia India,15/04/2021,Ludhiana,Tirupati,1955.4,02:10,07:40,09:50,I55023,50951,premium,691.99,SpiceJet,10/03/2019,Tirupati,Ludhiana,1955.4,02:10,14:53,17:03,SG6229
+51653,502,firstClass,1185.95,SpiceJet,13/08/2020,Puducherry,Diu,1357.3,01:30,20:55,22:25,SG5423,51770,economic,764.53,SpiceJet,11/10/2022,Diu,Puducherry,1357.3,01:30,02:24,03:54,SG6046
+51735,502,firstClass,1545.78,SpiceJet,03/10/2022,Vijayawada,Varanasi,1009.76,01:07,17:39,18:46,SG4304,51760,economic,615.26,SpiceJet,09/01/2022,Varanasi,Vijayawada,1009.76,01:07,03:51,04:58,SG6619B
+51760,502,economic,615.26,SpiceJet,09/01/2022,Varanasi,Vijayawada,1009.76,01:07,03:51,04:58,SG6619B,51735,firstClass,1545.78,SpiceJet,03/10/2022,Vijayawada,Varanasi,1009.76,01:07,17:39,18:46,SG4304
+51770,502,economic,764.53,SpiceJet,11/10/2022,Diu,Puducherry,1357.3,01:30,02:24,03:54,SG6046,51653,firstClass,1185.95,SpiceJet,13/08/2020,Puducherry,Diu,1357.3,01:30,20:55,22:25,SG5423
+52763,511,premium,691.99,Akasa Air,08/05/2021,Diu,Vijayawada,1120.32,01:14,22:26,23:40,QP1095C,52796,firstClass,749.85,AirAsia India,24/03/2022,Vijayawada,Diu,1120.32,01:14,22:47,00:01,I58496
+52796,511,firstClass,749.85,AirAsia India,24/03/2022,Vijayawada,Diu,1120.32,01:14,22:47,00:01,I58496,52763,premium,691.99,Akasa Air,08/05/2021,Diu,Vijayawada,1120.32,01:14,22:26,23:40,QP1095C
+52807,512,firstClass,620.16,Air India,24/10/2019,Chennai,Imphal,1937.32,02:09,01:47,03:56,AI951E,52915,economic,506.56,IndiGo,18/11/2021,Imphal,Chennai,1937.32,02:09,02:53,05:02,6E261C
+52915,512,economic,506.56,IndiGo,18/11/2021,Imphal,Chennai,1937.32,02:09,02:53,05:02,6E261C,52807,firstClass,620.16,Air India,24/10/2019,Chennai,Imphal,1937.32,02:09,01:47,03:56,AI951E
+53554,517,firstClass,1545.78,SpiceJet,29/04/2021,Kullu-Manali,Vijayawada,1744.96,01:56,01:22,03:18,SG8784,53573,firstClass,1262.23,GoAir,09/09/2021,Vijayawada,Kullu-Manali,1744.96,01:56,13:05,15:01,G81996
+53573,517,firstClass,1262.23,GoAir,09/09/2021,Vijayawada,Kullu-Manali,1744.96,01:56,13:05,15:01,G81996,53554,firstClass,1545.78,SpiceJet,29/04/2021,Kullu-Manali,Vijayawada,1744.96,01:56,01:22,03:18,SG8784
+53685,519,firstClass,1446.34,Air India,10/10/2019,Gwalior,Guwahati,1353.44,01:30,05:38,07:08,AI906B,53719,firstClass,1341.21,SpiceJet,06/04/2020,Guwahati,Gwalior,1353.44,01:30,19:50,21:20,SG5077
+53719,519,firstClass,1341.21,SpiceJet,06/04/2020,Guwahati,Gwalior,1353.44,01:30,19:50,21:20,SG5077,53685,firstClass,1446.34,Air India,10/10/2019,Gwalior,Guwahati,1353.44,01:30,05:38,07:08,AI906B
+53728,519,premium,1363.27,Air India,08/06/2020,Raigarh,Delhi NCR,984.05,01:05,15:22,16:27,AI109B,53745,premium,1363.27,IndiGo,12/03/2020,Delhi NCR,Raigarh,984.05,01:05,19:56,21:01,6E926E
+53745,519,premium,1363.27,IndiGo,12/03/2020,Delhi NCR,Raigarh,984.05,01:05,19:56,21:01,6E926E,53728,premium,1363.27,Air India,08/06/2020,Raigarh,Delhi NCR,984.05,01:05,15:22,16:27,AI109B
+54330,529,economic,886.9,Air India,12/05/2019,Varanasi,Shimla,861.09,00:57,15:18,16:15,AI995D,54345,economic,946.55,Akasa Air,19/03/2020,Shimla,Varanasi,861.09,00:57,02:12,03:09,QP1217
+54345,529,economic,946.55,Akasa Air,19/03/2020,Shimla,Varanasi,861.09,00:57,02:12,03:09,QP1217,54330,economic,886.9,Air India,12/05/2019,Varanasi,Shimla,861.09,00:57,15:18,16:15,AI995D
+55753,544,firstClass,749.85,AirAsia India,12/12/2019,Bhubaneswar,Surat,1355.8,01:30,02:50,04:20,I55116,55802,premium,691.99,SpiceJet,19/11/2020,Surat,Bhubaneswar,1355.8,01:30,09:11,10:41,SG5774
+55802,544,premium,691.99,SpiceJet,19/11/2020,Surat,Bhubaneswar,1355.8,01:30,09:11,10:41,SG5774,55753,firstClass,749.85,AirAsia India,12/12/2019,Bhubaneswar,Surat,1355.8,01:30,02:50,04:20,I55116
+56189,546,economic,877.56,SpiceJet,10/01/2020,Kota,Navi Mumbai,2348.65,02:36,10:07,12:43,SG1648,56217,premium,652.47,IndiGo,15/04/2021,Navi Mumbai,Kota,2348.65,02:36,21:13,23:49,6E942
+56217,546,premium,652.47,IndiGo,15/04/2021,Navi Mumbai,Kota,2348.65,02:36,21:13,23:49,6E942,56189,economic,877.56,SpiceJet,10/01/2020,Kota,Navi Mumbai,2348.65,02:36,10:07,12:43,SG1648
+57216,557,premium,1030.13,Akasa Air,15/04/2021,Bilaspur,Mopa,8261.64,09:10,17:33,02:43,QP1337,57278,economic,381.83,SpiceJet,23/06/2022,Mopa,Bilaspur,8261.64,09:10,20:44,05:54,SG5164
+57278,557,economic,381.83,SpiceJet,23/06/2022,Mopa,Bilaspur,8261.64,09:10,20:44,05:54,SG5164,57216,premium,1030.13,Akasa Air,15/04/2021,Bilaspur,Mopa,8261.64,09:10,17:33,02:43,QP1337
+57722,562,premium,691.99,Akasa Air,16/07/2020,Puri,Raipur,464.75,00:30,04:08,04:38,QP1717C,57733,economic,411.05,SpiceJet,10/01/2020,Raipur,Puri,464.75,00:30,03:15,03:45,SG7916
+57733,562,economic,411.05,SpiceJet,10/01/2020,Raipur,Puri,464.75,00:30,03:15,03:45,SG7916,57722,premium,691.99,Akasa Air,16/07/2020,Puri,Raipur,464.75,00:30,04:08,04:38,QP1717C
+58398,570,premium,1328.88,SpiceJet,06/04/2020,Thiruvananthapuram,Ranchi,1876.95,02:05,14:46,16:51,SG3944,58440,premium,1215.45,Air India,25/03/2021,Ranchi,Thiruvananthapuram,1876.95,02:05,15:10,17:15,AI724
+58440,570,premium,1215.45,Air India,25/03/2021,Ranchi,Thiruvananthapuram,1876.95,02:05,15:10,17:15,AI724,58398,premium,1328.88,SpiceJet,06/04/2020,Thiruvananthapuram,Ranchi,1876.95,02:05,14:46,16:51,SG3944
+58907,573,economic,764.53,SpiceJet,31/12/2020,Varanasi,Thiruvananthapuram,1978.55,02:11,14:38,16:49,SG5574,58938,firstClass,1262.23,GoAir,08/05/2021,Thiruvananthapuram,Varanasi,1978.55,02:11,11:05,13:16,G81920B
+58938,573,firstClass,1262.23,GoAir,08/05/2021,Thiruvananthapuram,Varanasi,1978.55,02:11,11:05,13:16,G81920B,58907,economic,764.53,SpiceJet,31/12/2020,Varanasi,Thiruvananthapuram,1978.55,02:11,14:38,16:49,SG5574
+60725,587,premium,826.72,IndiGo,19/12/2019,Diu,Puri,1551.16,01:43,06:33,08:16,6E767B,60888,firstClass,1473.41,GoAir,02/02/2023,Puri,Diu,1551.16,01:43,03:55,05:38,G81991
+60888,587,firstClass,1473.41,GoAir,02/02/2023,Puri,Diu,1551.16,01:43,03:55,05:38,G81991,60725,premium,826.72,IndiGo,19/12/2019,Diu,Puri,1551.16,01:43,06:33,08:16,6E767B
+61260,599,firstClass,644.16,Akasa Air,16/04/2020,Mysuru,Ahmedabad,1267.51,01:24,11:04,12:28,QP1620B,61340,firstClass,1244.73,Air India,28/10/2021,Ahmedabad,Mysuru,1267.51,01:24,03:03,04:27,AI780
+61340,599,firstClass,1244.73,Air India,28/10/2021,Ahmedabad,Mysuru,1267.51,01:24,03:03,04:27,AI780,61260,firstClass,644.16,Akasa Air,16/04/2020,Mysuru,Ahmedabad,1267.51,01:24,11:04,12:28,QP1620B
+61862,604,firstClass,1446.34,IndiGo,10/10/2019,Nashik,Gwalior,825.13,00:55,17:49,18:44,6E747,61877,firstClass,1609.81,AirAsia India,23/01/2020,Gwalior,Nashik,825.13,00:55,09:19,10:14,I51775
+61877,604,firstClass,1609.81,AirAsia India,23/01/2020,Gwalior,Nashik,825.13,00:55,09:19,10:14,I51775,61862,firstClass,1446.34,IndiGo,10/10/2019,Nashik,Gwalior,825.13,00:55,17:49,18:44,6E747
+62002,605,firstClass,870.91,SpiceJet,01/07/2021,Pune,Mumbai,119.45,00:07,10:28,10:35,SG3140,62072,premium,991.22,Akasa Air,05/12/2022,Mumbai,Pune,119.45,00:07,09:02,09:09,QP1889B
+62072,605,premium,991.22,Akasa Air,05/12/2022,Mumbai,Pune,119.45,00:07,09:02,09:09,QP1889B,62002,firstClass,870.91,SpiceJet,01/07/2021,Pune,Mumbai,119.45,00:07,10:28,10:35,SG3140
+62648,611,economic,411.05,Akasa Air,28/01/2021,Srinagar,Bengaluru,2364.58,02:37,19:42,22:19,QP1810F,62655,firstClass,1446.34,IndiGo,18/03/2021,Bengaluru,Srinagar,2364.58,02:37,12:25,15:02,6E731C
+62655,611,firstClass,1446.34,IndiGo,18/03/2021,Bengaluru,Srinagar,2364.58,02:37,12:25,15:02,6E731C,62648,economic,411.05,Akasa Air,28/01/2021,Srinagar,Bengaluru,2364.58,02:37,19:42,22:19,QP1810F
+63038,614,economic,877.56,Akasa Air,01/02/2020,Gangtok,Dhubri,199.37,00:13,22:09,22:22,QP1991B,63044,premium,959.91,IndiGo,13/02/2020,Dhubri,Gangtok,199.37,00:13,15:49,16:02,6E838D
+63044,614,premium,959.91,IndiGo,13/02/2020,Dhubri,Gangtok,199.37,00:13,15:49,16:02,6E838D,63038,economic,877.56,Akasa Air,01/02/2020,Gangtok,Dhubri,199.37,00:13,22:09,22:22,QP1991B
+63349,616,economic,381.83,Akasa Air,24/03/2022,Bilaspur,Surat,968.69,01:04,01:14,02:18,QP1763,63370,firstClass,1185.95,SpiceJet,18/08/2022,Surat,Bilaspur,968.69,01:04,22:55,23:59,SG6113
+63370,616,firstClass,1185.95,SpiceJet,18/08/2022,Surat,Bilaspur,968.69,01:04,22:55,23:59,SG6113,63349,economic,381.83,Akasa Air,24/03/2022,Bilaspur,Surat,968.69,01:04,01:14,02:18,QP1763
+63809,621,firstClass,1473.41,AirAsia India,19/12/2019,Chennai,Imphal,1937.32,02:09,12:07,14:16,I58583,63850,firstClass,1149.38,IndiGo,10/01/2020,Imphal,Chennai,1937.32,02:09,03:35,05:44,6E261C
+63850,621,firstClass,1149.38,IndiGo,10/01/2020,Imphal,Chennai,1937.32,02:09,03:35,05:44,6E261C,63809,firstClass,1473.41,AirAsia India,19/12/2019,Chennai,Imphal,1937.32,02:09,12:07,14:16,I58583
+63929,622,premium,691.99,SpiceJet,07/02/2020,Imphal,Ranchi,891.45,00:59,01:52,02:51,SG7439,63993,economic,972.12,Air India,23/09/2021,Ranchi,Imphal,891.45,00:59,15:48,16:47,AI286B
+63993,622,economic,972.12,Air India,23/09/2021,Ranchi,Imphal,891.45,00:59,15:48,16:47,AI286B,63929,premium,691.99,SpiceJet,07/02/2020,Imphal,Ranchi,891.45,00:59,01:52,02:51,SG7439
+64460,627,firstClass,1310.32,GoAir,13/08/2020,Kolkata,Shimla,1459.94,01:37,22:17,23:54,G81034D,64473,premium,1030.13,SpiceJet,11/12/2020,Shimla,Kolkata,1459.94,01:37,06:18,07:55,SG8236
+64473,627,premium,1030.13,SpiceJet,11/12/2020,Shimla,Kolkata,1459.94,01:37,06:18,07:55,SG8236,64460,firstClass,1310.32,GoAir,13/08/2020,Kolkata,Shimla,1459.94,01:37,22:17,23:54,G81034D
+65993,641,firstClass,1754.17,Akasa Air,13/08/2020,Surat,Hyderabad,726.71,00:48,15:24,16:12,QP1333B,66020,firstClass,1473.41,AirAsia India,18/02/2021,Hyderabad,Surat,726.71,00:48,17:28,18:16,I53049
+66020,641,firstClass,1473.41,AirAsia India,18/02/2021,Hyderabad,Surat,726.71,00:48,17:28,18:16,I53049,65993,firstClass,1754.17,Akasa Air,13/08/2020,Surat,Hyderabad,726.71,00:48,15:24,16:12,QP1333B
+66027,641,firstClass,778.01,Akasa Air,04/08/2021,Surat,Nashik,166.63,00:11,15:57,16:08,QP1222,66046,economic,764.53,Akasa Air,19/08/2021,Nashik,Surat,166.63,00:11,05:34,05:45,QP1249B
+66044,641,economic,381.83,Akasa Air,08/05/2021,Navi Mumbai,Dabolim,415.65,00:27,11:37,12:04,QP1239C,66048,economic,467.6,Air India,09/02/2021,Dabolim,Navi Mumbai,415.65,00:27,01:11,01:38,AI459
+66046,641,economic,764.53,Akasa Air,19/08/2021,Nashik,Surat,166.63,00:11,05:34,05:45,QP1249B,66027,firstClass,778.01,Akasa Air,04/08/2021,Surat,Nashik,166.63,00:11,15:57,16:08,QP1222
+66048,641,economic,467.6,Air India,09/02/2021,Dabolim,Navi Mumbai,415.65,00:27,01:11,01:38,AI459,66044,economic,381.83,Akasa Air,08/05/2021,Navi Mumbai,Dabolim,415.65,00:27,11:37,12:04,QP1239C
+66154,642,premium,991.22,SpiceJet,27/02/2020,Raigarh,Dehradun,1078.78,01:11,03:26,04:37,SG4304C,66160,premium,1328.88,Akasa Air,04/09/2020,Dehradun,Raigarh,1078.78,01:11,12:56,14:07,QP1114B
+66160,642,premium,1328.88,Akasa Air,04/09/2020,Dehradun,Raigarh,1078.78,01:11,12:56,14:07,QP1114B,66154,premium,991.22,SpiceJet,27/02/2020,Raigarh,Dehradun,1078.78,01:11,03:26,04:37,SG4304C
+66559,646,premium,661.32,IndiGo,02/06/2020,Varanasi,Vijayawada,1009.76,01:07,10:34,11:41,6E863C,66572,premium,661.32,IndiGo,05/07/2020,Vijayawada,Varanasi,1009.76,01:07,17:05,18:12,6E266
+66565,646,economic,621.36,IndiGo,19/03/2020,Shillong,Mysuru,2175.1,02:25,21:43,00:08,6E820G,66706,economic,946.55,Akasa Air,12/01/2022,Mysuru,Shillong,2175.1,02:25,19:48,22:13,QP1503B
+66572,646,premium,661.32,IndiGo,05/07/2020,Vijayawada,Varanasi,1009.76,01:07,17:05,18:12,6E266,66559,premium,661.32,IndiGo,02/06/2020,Varanasi,Vijayawada,1009.76,01:07,10:34,11:41,6E863C
+66706,646,economic,946.55,Akasa Air,12/01/2022,Mysuru,Shillong,2175.1,02:25,19:48,22:13,QP1503B,66565,economic,621.36,IndiGo,19/03/2020,Shillong,Mysuru,2175.1,02:25,21:43,00:08,6E820G
+67168,651,economic,625.5,Akasa Air,30/12/2021,Varanasi,Puri,678.21,00:45,05:30,06:15,QP1485D,67187,firstClass,1684.14,Air India,05/12/2022,Puri,Varanasi,678.21,00:45,21:57,22:42,AI770C
+67187,651,firstClass,1684.14,Air India,05/12/2022,Puri,Varanasi,678.21,00:45,21:57,22:42,AI770C,67168,economic,625.5,Akasa Air,30/12/2021,Varanasi,Puri,678.21,00:45,05:30,06:15,QP1485D
+67588,655,premium,748.52,Air India,14/05/2020,Visakhapatnam,Hyderabad,504.2,00:33,01:53,02:26,AI479,67666,firstClass,946.36,Air India,11/11/2021,Hyderabad,Visakhapatnam,504.2,00:33,19:02,19:35,AI587C
+67666,655,firstClass,946.36,Air India,11/11/2021,Hyderabad,Visakhapatnam,504.2,00:33,19:02,19:35,AI587C,67588,premium,748.52,Air India,14/05/2020,Visakhapatnam,Hyderabad,504.2,00:33,01:53,02:26,AI479
+67929,659,firstClass,1714.75,GoAir,27/02/2020,Bhubaneswar,Ludhiana,1547.91,01:43,09:51,11:34,G81126B,67940,premium,1288.79,IndiGo,14/05/2020,Ludhiana,Bhubaneswar,1547.91,01:43,23:32,01:15,6E500B
+67940,659,premium,1288.79,IndiGo,14/05/2020,Ludhiana,Bhubaneswar,1547.91,01:43,23:32,01:15,6E500B,67929,firstClass,1714.75,GoAir,27/02/2020,Bhubaneswar,Ludhiana,1547.91,01:43,09:51,11:34,G81126B
+68586,664,firstClass,943.18,AirAsia India,06/10/2021,Prayagraj,Ranchi,421.65,00:28,21:32,22:00,I55651,68636,firstClass,1533.42,IndiGo,26/05/2022,Ranchi,Prayagraj,421.65,00:28,22:48,23:16,6E376
+68636,664,firstClass,1533.42,IndiGo,26/05/2022,Ranchi,Prayagraj,421.65,00:28,22:48,23:16,6E376,68586,firstClass,943.18,AirAsia India,06/10/2021,Prayagraj,Ranchi,421.65,00:28,21:32,22:00,I55651
+69172,669,premium,1288.79,IndiGo,09/02/2021,Kolkata,Nashik,1535.86,01:42,00:50,02:32,6E974B,69176,firstClass,1092.94,IndiGo,30/09/2021,Nashik,Kolkata,1535.86,01:42,22:14,23:56,6E978D
+69176,669,firstClass,1092.94,IndiGo,30/09/2021,Nashik,Kolkata,1535.86,01:42,22:14,23:56,6E978D,69172,premium,1288.79,IndiGo,09/02/2021,Kolkata,Nashik,1535.86,01:42,00:50,02:32,6E974B
+69226,671,firstClass,577.71,GoAir,01/02/2020,Delhi NCR,Mopa,7745.91,08:36,01:38,10:14,G81771D,69293,firstClass,1684.05,IndiGo,15/04/2021,Mopa,Delhi NCR,7745.91,08:36,20:00,04:36,6E769C
+69293,671,firstClass,1684.05,IndiGo,15/04/2021,Mopa,Delhi NCR,7745.91,08:36,20:00,04:36,6E769C,69226,firstClass,577.71,GoAir,01/02/2020,Delhi NCR,Mopa,7745.91,08:36,01:38,10:14,G81771D
+69444,673,firstClass,959.29,Akasa Air,24/09/2020,Guwahati,Vadodara,1926.61,02:08,21:46,23:54,QP1813B,69465,economic,406.36,SpiceJet,18/02/2021,Vadodara,Guwahati,1926.61,02:08,14:00,16:08,SG3187
+69465,673,economic,406.36,SpiceJet,18/02/2021,Vadodara,Guwahati,1926.61,02:08,14:00,16:08,SG3187,69444,firstClass,959.29,Akasa Air,24/09/2020,Guwahati,Vadodara,1926.61,02:08,21:46,23:54,QP1813B
+69528,674,premium,1100.85,SpiceJet,19/12/2019,Raigarh,Visakhapatnam,469.41,00:31,16:45,17:16,SG1095,69573,economic,697.51,Air India,29/10/2020,Visakhapatnam,Raigarh,469.41,00:31,04:05,04:36,AI570
+69573,674,economic,697.51,Air India,29/10/2020,Visakhapatnam,Raigarh,469.41,00:31,04:05,04:36,AI570,69528,premium,1100.85,SpiceJet,19/12/2019,Raigarh,Visakhapatnam,469.41,00:31,16:45,17:16,SG1095
+71736,696,economic,625.5,SpiceJet,09/03/2020,Kota,Mopa,5169.94,05:44,03:07,08:51,SG6174B,71755,economic,335.16,Air India,14/01/2021,Mopa,Kota,5169.94,05:44,06:08,11:52,AI283
+71755,696,economic,335.16,Air India,14/01/2021,Mopa,Kota,5169.94,05:44,06:08,11:52,AI283,71736,economic,625.5,SpiceJet,09/03/2020,Kota,Mopa,5169.94,05:44,03:07,08:51,SG6174B
+72352,703,firstClass,1666.23,AirAsia India,23/01/2020,Dehradun,Kota,2679.24,02:58,19:09,22:07,I59286,72368,firstClass,1088.87,AirAsia India,14/05/2020,Kota,Dehradun,2679.24,02:58,01:55,04:53,I54766
+72354,703,economic,530.03,Akasa Air,02/06/2020,Mopa,Varanasi,8334.57,09:15,15:08,00:23,QP1106,72382,premium,1100.85,Akasa Air,20/08/2020,Varanasi,Mopa,8334.57,09:15,22:13,07:28,QP1497B
+72368,703,firstClass,1088.87,AirAsia India,14/05/2020,Kota,Dehradun,2679.24,02:58,01:55,04:53,I54766,72352,firstClass,1666.23,AirAsia India,23/01/2020,Dehradun,Kota,2679.24,02:58,19:09,22:07,I59286
+72382,703,premium,1100.85,Akasa Air,20/08/2020,Varanasi,Mopa,8334.57,09:15,22:13,07:28,QP1497B,72354,economic,530.03,Akasa Air,02/06/2020,Mopa,Varanasi,8334.57,09:15,15:08,00:23,QP1106
+73100,710,economic,472.72,IndiGo,12/10/2020,Prayagraj,Mumbai,1162.22,01:17,19:00,20:17,6E268E,73166,economic,429.77,Air India,17/03/2022,Mumbai,Prayagraj,1162.22,01:17,12:04,13:21,AI595C
+73166,710,economic,429.77,Air India,17/03/2022,Mumbai,Prayagraj,1162.22,01:17,12:04,13:21,AI595C,73100,economic,472.72,IndiGo,12/10/2020,Prayagraj,Mumbai,1162.22,01:17,19:00,20:17,6E268E
+73177,710,premium,579.62,Akasa Air,06/02/2022,Surat,Mysuru,1069.12,01:11,09:49,11:00,QP1682,73188,firstClass,959.29,Akasa Air,18/08/2022,Mysuru,Surat,1069.12,01:11,04:47,05:58,QP1492D
+73188,710,firstClass,959.29,Akasa Air,18/08/2022,Mysuru,Surat,1069.12,01:11,04:47,05:58,QP1492D,73177,premium,579.62,Akasa Air,06/02/2022,Surat,Mysuru,1069.12,01:11,09:49,11:00,QP1682
+73460,713,firstClass,1540.6,GoAir,19/12/2019,Kullu-Manali,Srinagar,329.11,00:21,00:53,01:14,G81011C,73481,economic,712.64,SpiceJet,14/05/2020,Srinagar,Kullu-Manali,329.11,00:21,11:21,11:42,SG3853
+73481,713,economic,712.64,SpiceJet,14/05/2020,Srinagar,Kullu-Manali,329.11,00:21,11:21,11:42,SG3853,73460,firstClass,1540.6,GoAir,19/12/2019,Kullu-Manali,Srinagar,329.11,00:21,00:53,01:14,G81011C
+73679,714,firstClass,668.19,GoAir,08/04/2022,Raipur,Ranchi,445.04,00:29,15:47,16:16,G81918,73683,economic,623.33,IndiGo,09/01/2022,Ranchi,Raipur,445.04,00:29,01:33,02:02,6E602B
+73683,714,economic,623.33,IndiGo,09/01/2022,Ranchi,Raipur,445.04,00:29,01:33,02:02,6E602B,73679,firstClass,668.19,GoAir,08/04/2022,Raipur,Ranchi,445.04,00:29,15:47,16:16,G81918
+73972,717,firstClass,1192.62,AirAsia India,17/10/2019,Jamshedpur,Raigarh,303.95,00:20,10:44,11:04,I51666,74021,economic,717.04,IndiGo,24/09/2020,Raigarh,Jamshedpur,303.95,00:20,17:26,17:46,6E640
+74021,717,economic,717.04,IndiGo,24/09/2020,Raigarh,Jamshedpur,303.95,00:20,17:26,17:46,6E640,73972,firstClass,1192.62,AirAsia India,17/10/2019,Jamshedpur,Raigarh,303.95,00:20,10:44,11:04,I51666
+75210,731,premium,719.91,Air India,03/05/2020,Nashik,Kullu-Manali,1362.82,01:30,13:10,14:40,AI732,75286,firstClass,549.96,Akasa Air,19/08/2021,Kullu-Manali,Nashik,1362.82,01:30,23:42,01:12,QP1946B
+75286,731,firstClass,549.96,Akasa Air,19/08/2021,Kullu-Manali,Nashik,1362.82,01:30,23:42,01:12,QP1946B,75210,premium,719.91,Air India,03/05/2020,Nashik,Kullu-Manali,1362.82,01:30,13:10,14:40,AI732
+75623,737,premium,563.23,Air India,10/10/2019,Coimbatore,Puri,1362.16,01:30,20:17,21:47,AI341B,75625,firstClass,744.11,Air India,24/10/2019,Puri,Coimbatore,1362.16,01:30,20:20,21:50,AI701D
+75625,737,firstClass,744.11,Air India,24/10/2019,Puri,Coimbatore,1362.16,01:30,20:20,21:50,AI701D,75623,premium,563.23,Air India,10/10/2019,Coimbatore,Puri,1362.16,01:30,20:17,21:47,AI341B
+75645,737,premium,863.8,Air India,03/12/2020,Puducherry,Puri,1084.01,01:12,22:19,23:31,AI828C,75750,premium,1021.53,IndiGo,17/03/2022,Puri,Puducherry,1084.01,01:12,09:34,10:46,6E666D
+75681,737,economic,602.49,Akasa Air,19/11/2020,Jaipur,Mumbai,921.69,01:01,10:02,11:03,QP1101B,75724,firstClass,898.04,GoAir,16/09/2021,Mumbai,Jaipur,921.69,01:01,20:17,21:18,G81752
+75724,737,firstClass,898.04,GoAir,16/09/2021,Mumbai,Jaipur,921.69,01:01,20:17,21:18,G81752,75681,economic,602.49,Akasa Air,19/11/2020,Jaipur,Mumbai,921.69,01:01,10:02,11:03,QP1101B
+75750,737,premium,1021.53,IndiGo,17/03/2022,Puri,Puducherry,1084.01,01:12,09:34,10:46,6E666D,75645,premium,863.8,Air India,03/12/2020,Puducherry,Puri,1084.01,01:12,22:19,23:31,AI828C
+77105,749,firstClass,1124.11,IndiGo,01/02/2020,Bilaspur,Ranchi,352.67,00:23,19:57,20:20,6E367B,77120,firstClass,1300.53,Air India,16/04/2020,Ranchi,Bilaspur,352.67,00:23,06:27,06:50,AI706C
+77120,749,firstClass,1300.53,Air India,16/04/2020,Ranchi,Bilaspur,352.67,00:23,06:27,06:50,AI706C,77105,firstClass,1124.11,IndiGo,01/02/2020,Bilaspur,Ranchi,352.67,00:23,19:57,20:20,6E367B
+78027,757,firstClass,1684.05,IndiGo,31/03/2022,Ayodhya,Visakhapatnam,1019.15,01:07,09:26,10:33,6E700E,78031,firstClass,1540.6,GoAir,28/04/2022,Visakhapatnam,Ayodhya,1019.15,01:07,18:41,19:48,G81738
+78031,757,firstClass,1540.6,GoAir,28/04/2022,Visakhapatnam,Ayodhya,1019.15,01:07,18:41,19:48,G81738,78027,firstClass,1684.05,IndiGo,31/03/2022,Ayodhya,Visakhapatnam,1019.15,01:07,09:26,10:33,6E700E
+78876,766,firstClass,1300.53,Air India,03/12/2020,Bhubaneswar,Hyderabad,840.09,00:56,23:48,00:44,AI700,78939,economic,602.49,SpiceJet,27/05/2021,Hyderabad,Bhubaneswar,840.09,00:56,15:29,16:25,SG2523
+78939,766,economic,602.49,SpiceJet,27/05/2021,Hyderabad,Bhubaneswar,840.09,00:56,15:29,16:25,SG2523,78876,firstClass,1300.53,Air India,03/12/2020,Bhubaneswar,Hyderabad,840.09,00:56,23:48,00:44,AI700
+79967,779,premium,879.87,SpiceJet,24/10/2019,Udaipur,Ranchi,1185.97,01:19,10:30,11:49,SG1788B,80107,economic,743.6,Akasa Air,30/06/2022,Ranchi,Udaipur,1185.97,01:19,20:14,21:33,QP1144
+80107,779,economic,743.6,Akasa Air,30/06/2022,Ranchi,Udaipur,1185.97,01:19,20:14,21:33,QP1144,79967,premium,879.87,SpiceJet,24/10/2019,Udaipur,Ranchi,1185.97,01:19,10:30,11:49,SG1788B
+80402,782,premium,898.46,Air India,29/10/2020,Bengaluru,Hyderabad,499.26,00:33,07:44,08:17,AI289,80418,firstClass,953.32,Air India,18/02/2021,Hyderabad,Bengaluru,499.26,00:33,13:18,13:51,AI636B
+80418,782,firstClass,953.32,Air India,18/02/2021,Hyderabad,Bengaluru,499.26,00:33,13:18,13:51,AI636B,80402,premium,898.46,Air India,29/10/2020,Bengaluru,Hyderabad,499.26,00:33,07:44,08:17,AI289
+81052,789,premium,861.9,Akasa Air,16/01/2020,Mysuru,Hyderabad,598.3,00:39,07:12,07:51,QP1315B,81109,economic,488.57,Air India,18/02/2021,Hyderabad,Mysuru,598.3,00:39,19:55,20:34,AI635C
+81109,789,economic,488.57,Air India,18/02/2021,Hyderabad,Mysuru,598.3,00:39,19:55,20:34,AI635C,81052,premium,861.9,Akasa Air,16/01/2020,Mysuru,Hyderabad,598.3,00:39,07:12,07:51,QP1315B
+81265,791,economic,604.14,IndiGo,23/04/2020,Coimbatore,Diu,1254.52,01:23,22:15,23:38,6E272D,81271,firstClass,1148.78,SpiceJet,06/04/2020,Diu,Coimbatore,1254.52,01:23,12:05,13:28,SG7242
+81271,791,firstClass,1148.78,SpiceJet,06/04/2020,Diu,Coimbatore,1254.52,01:23,12:05,13:28,SG7242,81265,economic,604.14,IndiGo,23/04/2020,Coimbatore,Diu,1254.52,01:23,22:15,23:38,6E272D
+82000,798,firstClass,727.31,GoAir,03/05/2020,Puducherry,Varanasi,1525.15,01:41,13:58,15:39,G81233C,82158,economic,869.13,Air India,16/03/2023,Varanasi,Puducherry,1525.15,01:41,05:49,07:30,AI329C
+82158,798,economic,869.13,Air India,16/03/2023,Varanasi,Puducherry,1525.15,01:41,05:49,07:30,AI329C,82000,firstClass,727.31,GoAir,03/05/2020,Puducherry,Varanasi,1525.15,01:41,13:58,15:39,G81233C
+82194,799,premium,755.62,Air India,26/03/2020,Nashik,Mumbai,140.1,00:09,23:58,00:07,AI544B,82289,economic,827.12,SpiceJet,20/01/2022,Mumbai,Nashik,140.1,00:09,07:53,08:02,SG3115
+82289,799,economic,827.12,SpiceJet,20/01/2022,Mumbai,Nashik,140.1,00:09,07:53,08:02,SG3115,82194,premium,755.62,Air India,26/03/2020,Nashik,Mumbai,140.1,00:09,23:58,00:07,AI544B
+83218,813,firstClass,1192.62,GoAir,11/05/2020,Thiruvananthapuram,Vijayawada,977.99,01:05,21:27,22:32,G81600B,83261,economic,943.36,SpiceJet,09/02/2021,Vijayawada,Thiruvananthapuram,977.99,01:05,17:21,18:26,SG3567
+83261,813,economic,943.36,SpiceJet,09/02/2021,Vijayawada,Thiruvananthapuram,977.99,01:05,17:21,18:26,SG3567,83218,firstClass,1192.62,GoAir,11/05/2020,Thiruvananthapuram,Vijayawada,977.99,01:05,21:27,22:32,G81600B
+83696,820,firstClass,549.96,SpiceJet,02/04/2021,Navi Mumbai,Delhi NCR,1146.77,01:16,07:38,08:54,SG5353,83759,economic,367.22,Akasa Air,21/04/2022,Delhi NCR,Navi Mumbai,1146.77,01:16,01:20,02:36,QP1798B
+83759,820,economic,367.22,Akasa Air,21/04/2022,Delhi NCR,Navi Mumbai,1146.77,01:16,01:20,02:36,QP1798B,83696,firstClass,549.96,SpiceJet,02/04/2021,Navi Mumbai,Delhi NCR,1146.77,01:16,07:38,08:54,SG5353
+83766,820,economic,446.73,SpiceJet,06/09/2022,Kullu-Manali,Navi Mumbai,1486.55,01:39,00:04,01:43,SG8255,83788,premium,535.95,IndiGo,11/10/2022,Navi Mumbai,Kullu-Manali,1486.55,01:39,12:37,14:16,6E395D
+83788,820,premium,535.95,IndiGo,11/10/2022,Navi Mumbai,Kullu-Manali,1486.55,01:39,12:37,14:16,6E395D,83766,economic,446.73,SpiceJet,06/09/2022,Kullu-Manali,Navi Mumbai,1486.55,01:39,00:04,01:43,SG8255
+84177,826,premium,719.91,IndiGo,10/10/2019,Tirupati,Ayodhya,1492.11,01:39,09:55,11:34,6E151,84211,premium,748.52,IndiGo,06/04/2020,Ayodhya,Tirupati,1492.11,01:39,17:25,19:04,6E505F
+84181,826,economic,332.1,Air India,11/07/2019,Puri,Khowai,761.45,00:50,17:58,18:48,AI258D,84242,firstClass,1306.8,Air India,01/07/2021,Khowai,Puri,761.45,00:50,07:24,08:14,AI620C
+84211,826,premium,748.52,IndiGo,06/04/2020,Ayodhya,Tirupati,1492.11,01:39,17:25,19:04,6E505F,84177,premium,719.91,IndiGo,10/10/2019,Tirupati,Ayodhya,1492.11,01:39,09:55,11:34,6E151
+84242,826,firstClass,1306.8,Air India,01/07/2021,Khowai,Puri,761.45,00:50,07:24,08:14,AI620C,84181,economic,332.1,Air India,11/07/2019,Puri,Khowai,761.45,00:50,17:58,18:48,AI258D
+84311,828,economic,922.87,IndiGo,19/03/2020,Mysuru,Gangtok,2085.17,02:19,17:28,19:47,6E689B,84355,economic,943.36,Akasa Air,21/01/2021,Gangtok,Mysuru,2085.17,02:19,21:26,23:45,QP1673E
+84355,828,economic,943.36,Akasa Air,21/01/2021,Gangtok,Mysuru,2085.17,02:19,21:26,23:45,QP1673E,84311,economic,922.87,IndiGo,19/03/2020,Mysuru,Gangtok,2085.17,02:19,17:28,19:47,6E689B
+84596,831,firstClass,806.91,Akasa Air,05/07/2020,Itanagar,Ludhiana,1776.27,01:58,19:00,20:58,QP1786,84605,premium,1118.61,IndiGo,07/09/2020,Ludhiana,Itanagar,1776.27,01:58,06:02,08:00,6E140B
+84605,831,premium,1118.61,IndiGo,07/09/2020,Ludhiana,Itanagar,1776.27,01:58,06:02,08:00,6E140B,84596,firstClass,806.91,Akasa Air,05/07/2020,Itanagar,Ludhiana,1776.27,01:58,19:00,20:58,QP1786
+85273,837,premium,755.62,IndiGo,14/10/2021,Jaipur,Delhi NCR,231.43,00:15,23:43,23:58,6E789F,85308,premium,755.62,Air India,16/06/2022,Delhi NCR,Jaipur,231.43,00:15,10:55,11:10,AI554E
+85308,837,premium,755.62,Air India,16/06/2022,Delhi NCR,Jaipur,231.43,00:15,10:55,11:10,AI554E,85273,premium,755.62,IndiGo,14/10/2021,Jaipur,Delhi NCR,231.43,00:15,23:43,23:58,6E789F
+85671,843,economic,470.16,Akasa Air,08/12/2021,Jamshedpur,Bengaluru,1420.83,01:34,17:48,19:22,QP1061B,85674,economic,827.12,Akasa Air,09/02/2021,Bengaluru,Jamshedpur,1420.83,01:34,15:38,17:12,QP1883B
+85674,843,economic,827.12,Akasa Air,09/02/2021,Bengaluru,Jamshedpur,1420.83,01:34,15:38,17:12,QP1883B,85671,economic,470.16,Akasa Air,08/12/2021,Jamshedpur,Bengaluru,1420.83,01:34,17:48,19:22,QP1061B
+86219,850,firstClass,1142.29,GoAir,21/11/2019,Varanasi,Jamshedpur,426.65,00:28,23:49,00:17,G81953C,86275,firstClass,744.11,IndiGo,17/12/2020,Jamshedpur,Varanasi,426.65,00:28,22:19,22:47,6E337B
+86275,850,firstClass,744.11,IndiGo,17/12/2020,Jamshedpur,Varanasi,426.65,00:28,22:19,22:47,6E337B,86219,firstClass,1142.29,GoAir,21/11/2019,Varanasi,Jamshedpur,426.65,00:28,23:49,00:17,G81953C
+86292,850,firstClass,898.04,GoAir,15/04/2021,Kullu-Manali,Thiruvananthapuram,2601.07,02:53,03:46,06:39,G81925,86312,economic,604.14,IndiGo,09/02/2021,Thiruvananthapuram,Kullu-Manali,2601.07,02:53,20:31,23:24,6E914D
+86312,850,economic,604.14,IndiGo,09/02/2021,Thiruvananthapuram,Kullu-Manali,2601.07,02:53,20:31,23:24,6E914D,86292,firstClass,898.04,GoAir,15/04/2021,Kullu-Manali,Thiruvananthapuram,2601.07,02:53,03:46,06:39,G81925
+86782,856,economic,852.18,SpiceJet,10/01/2020,Navi Mumbai,Indore,503.17,00:33,12:08,12:41,SG4098,86791,firstClass,576.66,IndiGo,12/03/2020,Indore,Navi Mumbai,503.17,00:33,08:55,09:28,6E763B
+86791,856,firstClass,576.66,IndiGo,12/03/2020,Indore,Navi Mumbai,503.17,00:33,08:55,09:28,6E763B,86782,economic,852.18,SpiceJet,10/01/2020,Navi Mumbai,Indore,503.17,00:33,12:08,12:41,SG4098
+87347,862,premium,1288.79,IndiGo,27/02/2020,Delhi NCR,Mopa,7745.91,08:36,12:33,21:09,6E168C,87386,premium,427.25,SpiceJet,26/11/2020,Mopa,Delhi NCR,7745.91,08:36,22:44,07:20,SG5276
+87365,862,premium,451.41,IndiGo,07/02/2020,Dehradun,Gwalior,455.5,00:30,03:54,04:24,6E415G,87368,premium,438.74,SpiceJet,23/07/2020,Gwalior,Dehradun,455.5,00:30,06:51,07:21,SG7607
+87368,862,premium,438.74,SpiceJet,23/07/2020,Gwalior,Dehradun,455.5,00:30,06:51,07:21,SG7607,87365,premium,451.41,IndiGo,07/02/2020,Dehradun,Gwalior,455.5,00:30,03:54,04:24,6E415G
+87386,862,premium,427.25,SpiceJet,26/11/2020,Mopa,Delhi NCR,7745.91,08:36,22:44,07:20,SG5276,87347,premium,1288.79,IndiGo,27/02/2020,Delhi NCR,Mopa,7745.91,08:36,12:33,21:09,6E168C
+87517,864,firstClass,1582.41,SpiceJet,20/01/2022,Dabolim,Mopa,7415.65,08:14,11:33,19:47,SG3083,87525,premium,846.03,Air India,17/03/2022,Mopa,Dabolim,7415.65,08:14,04:23,12:37,AI415
+87525,864,premium,846.03,Air India,17/03/2022,Mopa,Dabolim,7415.65,08:14,04:23,12:37,AI415,87517,firstClass,1582.41,SpiceJet,20/01/2022,Dabolim,Mopa,7415.65,08:14,11:33,19:47,SG3083
+87811,868,firstClass,1570.02,Air India,30/01/2020,Ayodhya,Dabolim,1537.16,01:42,21:10,22:52,AI711D,87848,economic,793.27,Air India,15/10/2020,Dabolim,Ayodhya,1537.16,01:42,07:36,09:18,AI710C
+87848,868,economic,793.27,Air India,15/10/2020,Dabolim,Ayodhya,1537.16,01:42,07:36,09:18,AI710C,87811,firstClass,1570.02,Air India,30/01/2020,Ayodhya,Dabolim,1537.16,01:42,21:10,22:52,AI711D
+88340,873,premium,438.74,SpiceJet,31/10/2019,Itanagar,Hyderabad,1893.65,02:06,21:38,23:44,SG8274,88477,economic,712.64,Akasa Air,16/06/2022,Hyderabad,Itanagar,1893.65,02:06,05:54,08:00,QP1255D
+88477,873,economic,712.64,Akasa Air,16/06/2022,Hyderabad,Itanagar,1893.65,02:06,05:54,08:00,QP1255D,88340,premium,438.74,SpiceJet,31/10/2019,Itanagar,Hyderabad,1893.65,02:06,21:38,23:44,SG8274
+88564,875,premium,1007.72,IndiGo,18/06/2020,Gangtok,Patna,396.01,00:26,11:08,11:34,6E888C,88614,economic,530.03,SpiceJet,06/03/2021,Patna,Gangtok,396.01,00:26,06:07,06:33,SG7211
+88614,875,economic,530.03,SpiceJet,06/03/2021,Patna,Gangtok,396.01,00:26,06:07,06:33,SG7211,88564,premium,1007.72,IndiGo,18/06/2020,Gangtok,Patna,396.01,00:26,11:08,11:34,6E888C
+89175,880,premium,719.91,IndiGo,25/06/2020,Puri,Vijayawada,658.13,00:43,12:40,13:23,6E240E,89193,firstClass,1314.05,Akasa Air,29/10/2020,Vijayawada,Puri,658.13,00:43,17:35,18:18,QP1838
+89193,880,firstClass,1314.05,Akasa Air,29/10/2020,Vijayawada,Puri,658.13,00:43,17:35,18:18,QP1838,89175,premium,719.91,IndiGo,25/06/2020,Puri,Vijayawada,658.13,00:43,12:40,13:23,6E240E
+89235,881,firstClass,957.68,Air India,16/01/2020,Jaipur,Shimla,484.24,00:32,10:29,11:01,AI198,89349,premium,427.25,Akasa Air,24/03/2022,Shimla,Jaipur,484.24,00:32,04:53,05:25,QP1365
+89263,881,premium,701.29,Akasa Air,30/07/2020,Bhopal,Hisar,5549.86,06:09,02:29,08:38,QP1496B,89272,premium,588.14,Akasa Air,10/01/2020,Hisar,Bhopal,5549.86,06:09,12:46,18:55,QP1675C
+89272,881,premium,588.14,Akasa Air,10/01/2020,Hisar,Bhopal,5549.86,06:09,12:46,18:55,QP1675C,89263,premium,701.29,Akasa Air,30/07/2020,Bhopal,Hisar,5549.86,06:09,02:29,08:38,QP1496B
+89349,881,premium,427.25,Akasa Air,24/03/2022,Shimla,Jaipur,484.24,00:32,04:53,05:25,QP1365,89235,firstClass,957.68,Air India,16/01/2020,Jaipur,Shimla,484.24,00:32,10:29,11:01,AI198
+89758,886,firstClass,762.89,GoAir,14/11/2019,Puducherry,Varanasi,1525.15,01:41,15:39,17:20,G81233C,89815,firstClass,1692.64,AirAsia India,17/12/2020,Varanasi,Puducherry,1525.15,01:41,15:25,17:06,I56638
+89815,886,firstClass,1692.64,AirAsia India,17/12/2020,Varanasi,Puducherry,1525.15,01:41,15:25,17:06,I56638,89758,firstClass,762.89,GoAir,14/11/2019,Puducherry,Varanasi,1525.15,01:41,15:39,17:20,G81233C
+90957,898,firstClass,1640.8,Air India,01/09/2020,Dhubri,Pune,1855.2,02:03,20:05,22:08,AI849,90999,firstClass,1292.29,AirAsia India,29/10/2020,Pune,Dhubri,1855.2,02:03,12:07,14:10,I54510
+90999,898,firstClass,1292.29,AirAsia India,29/10/2020,Pune,Dhubri,1855.2,02:03,12:07,14:10,I54510,90957,firstClass,1640.8,Air India,01/09/2020,Dhubri,Pune,1855.2,02:03,20:05,22:08,AI849
+91034,898,premium,577.76,SpiceJet,07/01/2021,Patna,Ludhiana,1083.83,01:12,16:04,17:16,SG4489,91113,firstClass,1692.64,GoAir,01/05/2023,Ludhiana,Patna,1083.83,01:12,01:33,02:45,G81730
+91113,898,firstClass,1692.64,GoAir,01/05/2023,Ludhiana,Patna,1083.83,01:12,01:33,02:45,G81730,91034,premium,577.76,SpiceJet,07/01/2021,Patna,Ludhiana,1083.83,01:12,16:04,17:16,SG4489
+91185,900,premium,1128.51,IndiGo,26/12/2019,Ludhiana,Shimla,126.93,00:08,11:33,11:41,6E511C,91259,premium,469.92,IndiGo,27/05/2021,Shimla,Ludhiana,126.93,00:08,22:18,22:26,6E393B
+91259,900,premium,469.92,IndiGo,27/05/2021,Shimla,Ludhiana,126.93,00:08,22:18,22:26,6E393B,91185,premium,1128.51,IndiGo,26/12/2019,Ludhiana,Shimla,126.93,00:08,11:33,11:41,6E511C
+91684,905,economic,636.51,IndiGo,10/07/2021,Coimbatore,Kota,3147.59,03:29,19:10,22:39,6E761D,91686,premium,1311.38,Air India,21/10/2021,Kota,Coimbatore,3147.59,03:29,18:19,21:48,AI639
+91686,905,premium,1311.38,Air India,21/10/2021,Kota,Coimbatore,3147.59,03:29,18:19,21:48,AI639,91684,economic,636.51,IndiGo,10/07/2021,Coimbatore,Kota,3147.59,03:29,19:10,22:39,6E761D
+91938,907,premium,885.37,Air India,04/09/2020,Jaipur,Shimla,484.24,00:32,13:40,14:12,AI198,91941,firstClass,857.32,SpiceJet,30/04/2020,Shimla,Jaipur,484.24,00:32,20:36,21:08,SG5264
+91941,907,firstClass,857.32,SpiceJet,30/04/2020,Shimla,Jaipur,484.24,00:32,20:36,21:08,SG5264,91938,premium,885.37,Air India,04/09/2020,Jaipur,Shimla,484.24,00:32,13:40,14:12,AI198
+92699,915,economic,636.51,Air India,24/10/2019,Mopa,Guwahati,9201.22,10:13,11:42,21:55,AI665B,92755,firstClass,1127.36,IndiGo,19/11/2020,Guwahati,Mopa,9201.22,10:13,07:01,17:14,6E457
+92755,915,firstClass,1127.36,IndiGo,19/11/2020,Guwahati,Mopa,9201.22,10:13,07:01,17:14,6E457,92699,economic,636.51,Air India,24/10/2019,Mopa,Guwahati,9201.22,10:13,11:42,21:55,AI665B
+92781,915,firstClass,1315.27,IndiGo,20/05/2021,Vijayawada,Gangtok,1455.73,01:37,00:13,01:50,6E720,92861,economic,478.02,Air India,12/01/2022,Gangtok,Vijayawada,1455.73,01:37,14:25,16:02,AI396B
+92861,915,economic,478.02,Air India,12/01/2022,Gangtok,Vijayawada,1455.73,01:37,14:25,16:02,AI396B,92781,firstClass,1315.27,IndiGo,20/05/2021,Vijayawada,Gangtok,1455.73,01:37,00:13,01:50,6E720
+93542,923,economic,478.02,IndiGo,16/04/2020,Vadodara,Bhopal,442.97,00:29,02:09,02:38,6E894C,93554,firstClass,1127.36,IndiGo,07/09/2020,Bhopal,Vadodara,442.97,00:29,23:08,23:37,6E915C
+93554,923,firstClass,1127.36,IndiGo,07/09/2020,Bhopal,Vadodara,442.97,00:29,23:08,23:37,6E915C,93542,economic,478.02,IndiGo,16/04/2020,Vadodara,Bhopal,442.97,00:29,02:09,02:38,6E894C
+93936,928,economic,915.02,SpiceJet,27/08/2020,Varanasi,Kullu-Manali,926.4,01:01,09:50,10:51,SG1879,93970,economic,317.08,SpiceJet,22/04/2021,Kullu-Manali,Varanasi,926.4,01:01,10:58,11:59,SG5213
+93970,928,economic,317.08,SpiceJet,22/04/2021,Kullu-Manali,Varanasi,926.4,01:01,10:58,11:59,SG5213,93936,economic,915.02,SpiceJet,27/08/2020,Varanasi,Kullu-Manali,926.4,01:01,09:50,10:51,SG1879
+94081,930,premium,885.37,IndiGo,02/11/2021,Thiruvananthapuram,Coimbatore,280.22,00:18,19:10,19:28,6E647B,94146,economic,780.68,Akasa Air,05/12/2022,Coimbatore,Thiruvananthapuram,280.22,00:18,06:39,06:57,QP1967D
+94146,930,economic,780.68,Akasa Air,05/12/2022,Coimbatore,Thiruvananthapuram,280.22,00:18,06:39,06:57,QP1967D,94081,premium,885.37,IndiGo,02/11/2021,Thiruvananthapuram,Coimbatore,280.22,00:18,19:10,19:28,6E647B
+94617,935,premium,1128.51,IndiGo,29/10/2020,Bilaspur,Thiruvananthapuram,1610.93,01:47,23:36,01:23,6E809B,94624,economic,636.51,Air India,17/12/2020,Thiruvananthapuram,Bilaspur,1610.93,01:47,13:44,15:31,AI733B
+94624,935,economic,636.51,Air India,17/12/2020,Thiruvananthapuram,Bilaspur,1610.93,01:47,13:44,15:31,AI733B,94617,premium,1128.51,IndiGo,29/10/2020,Bilaspur,Thiruvananthapuram,1610.93,01:47,23:36,01:23,6E809B
+95315,941,firstClass,1175.62,SpiceJet,21/11/2019,Srinagar,Ranchi,1571.5,01:44,09:56,11:40,SG3627B,95438,firstClass,1348.79,GoAir,31/03/2022,Ranchi,Srinagar,1571.5,01:44,08:39,10:23,G81351
+95438,941,firstClass,1348.79,GoAir,31/03/2022,Ranchi,Srinagar,1571.5,01:44,08:39,10:23,G81351,95315,firstClass,1175.62,SpiceJet,21/11/2019,Srinagar,Ranchi,1571.5,01:44,09:56,11:40,SG3627B
+95663,945,economic,674.52,Air India,16/07/2020,Vijayawada,Prayagraj,1001.5,01:06,17:47,18:53,AI698,95716,firstClass,1097.17,GoAir,22/07/2021,Prayagraj,Vijayawada,1001.5,01:06,07:48,08:54,G81351C
+95716,945,firstClass,1097.17,GoAir,22/07/2021,Prayagraj,Vijayawada,1001.5,01:06,07:48,08:54,G81351C,95663,economic,674.52,Air India,16/07/2020,Vijayawada,Prayagraj,1001.5,01:06,17:47,18:53,AI698
+96447,955,firstClass,549.55,SpiceJet,13/02/2020,Guwahati,Patna,664.43,00:44,14:22,15:06,SG3211,96509,economic,695.3,Akasa Air,22/04/2021,Patna,Guwahati,664.43,00:44,17:53,18:37,QP1066C
+96509,955,economic,695.3,Akasa Air,22/04/2021,Patna,Guwahati,664.43,00:44,17:53,18:37,QP1066C,96447,firstClass,549.55,SpiceJet,13/02/2020,Guwahati,Patna,664.43,00:44,14:22,15:06,SG3211
+96876,958,firstClass,1292.29,AirAsia India,04/09/2020,Mopa,Amritsar,7551.25,08:23,00:31,08:54,I52007,96954,premium,554.87,IndiGo,10/07/2021,Amritsar,Mopa,7551.25,08:23,11:04,19:27,6E222
+96876,958,firstClass,1292.29,AirAsia India,04/09/2020,Mopa,Amritsar,7551.25,08:23,00:31,08:54,I52007,96982,economic,555.01,Akasa Air,21/04/2022,Amritsar,Mopa,7551.25,08:23,06:25,14:48,QP1667B
+96954,958,premium,554.87,IndiGo,10/07/2021,Amritsar,Mopa,7551.25,08:23,11:04,19:27,6E222,96876,firstClass,1292.29,AirAsia India,04/09/2020,Mopa,Amritsar,7551.25,08:23,00:31,08:54,I52007
+96982,958,economic,555.01,Akasa Air,21/04/2022,Amritsar,Mopa,7551.25,08:23,06:25,14:48,QP1667B,96876,firstClass,1292.29,AirAsia India,04/09/2020,Mopa,Amritsar,7551.25,08:23,00:31,08:54,I52007
+97118,960,premium,1149.53,Air India,11/05/2020,Varanasi,Dhubri,703.33,00:46,09:41,10:27,AI528,97144,premium,1128.51,IndiGo,05/06/2021,Dhubri,Varanasi,703.33,00:46,14:27,15:13,6E724
+97144,960,premium,1128.51,IndiGo,05/06/2021,Dhubri,Varanasi,703.33,00:46,14:27,15:13,6E724,97118,premium,1149.53,Air India,11/05/2020,Varanasi,Dhubri,703.33,00:46,09:41,10:27,AI528
+97304,962,premium,1367.88,Akasa Air,09/03/2020,Itanagar,Dabolim,2422.76,02:41,09:05,11:46,QP1428,97399,firstClass,1348.79,AirAsia India,30/06/2022,Dabolim,Itanagar,2422.76,02:41,10:39,13:20,I57622
+97399,962,firstClass,1348.79,AirAsia India,30/06/2022,Dabolim,Itanagar,2422.76,02:41,10:39,13:20,I57622,97304,premium,1367.88,Akasa Air,09/03/2020,Itanagar,Dabolim,2422.76,02:41,09:05,11:46,QP1428
+97710,967,firstClass,1468.03,IndiGo,13/08/2020,Hyderabad,Bhubaneswar,840.09,00:56,22:08,23:04,6E882D,97722,firstClass,1097.17,AirAsia India,11/05/2020,Bhubaneswar,Hyderabad,840.09,00:56,21:59,22:55,I57757
+97722,967,firstClass,1097.17,AirAsia India,11/05/2020,Bhubaneswar,Hyderabad,840.09,00:56,21:59,22:55,I57757,97710,firstClass,1468.03,IndiGo,13/08/2020,Hyderabad,Bhubaneswar,840.09,00:56,22:08,23:04,6E882D
+97732,967,firstClass,693.51,IndiGo,14/01/2021,Bhubaneswar,Ayodhya,814.45,00:54,21:23,22:17,6E659D,97746,economic,695.3,Akasa Air,22/04/2021,Ayodhya,Bhubaneswar,814.45,00:54,23:20,00:14,QP1863B
+97746,967,economic,695.3,Akasa Air,22/04/2021,Ayodhya,Bhubaneswar,814.45,00:54,23:20,00:14,QP1863B,97732,firstClass,693.51,IndiGo,14/01/2021,Bhubaneswar,Ayodhya,814.45,00:54,21:23,22:17,6E659D
+100117,993,premium,481.42,SpiceJet,12/02/2021,Navi Mumbai,Mysuru,843.67,00:56,21:24,22:20,SG5838,100133,economic,695.3,Akasa Air,24/03/2022,Mysuru,Navi Mumbai,843.67,00:56,10:24,11:20,QP1512
+100133,993,economic,695.3,Akasa Air,24/03/2022,Mysuru,Navi Mumbai,843.67,00:56,10:24,11:20,QP1512,100117,premium,481.42,SpiceJet,12/02/2021,Navi Mumbai,Mysuru,843.67,00:56,21:24,22:20,SG5838
+100665,1001,premium,1367.88,SpiceJet,28/10/2021,Amritsar,Puducherry,2247.39,02:29,01:00,03:29,SG2942,100684,firstClass,1640.8,IndiGo,03/10/2022,Puducherry,Amritsar,2247.39,02:29,21:31,00:00,6E567E
+100684,1001,firstClass,1640.8,IndiGo,03/10/2022,Puducherry,Amritsar,2247.39,02:29,21:31,00:00,6E567E,100665,premium,1367.88,SpiceJet,28/10/2021,Amritsar,Puducherry,2247.39,02:29,01:00,03:29,SG2942
+100974,1003,premium,554.87,IndiGo,14/01/2021,Shimla,Diu,1309.81,01:27,13:35,15:02,6E934,101022,premium,1149.53,Air India,16/12/2021,Diu,Shimla,1309.81,01:27,18:10,19:37,AI943C
+101022,1003,premium,1149.53,Air India,16/12/2021,Diu,Shimla,1309.81,01:27,18:10,19:37,AI943C,100974,premium,554.87,IndiGo,14/01/2021,Shimla,Diu,1309.81,01:27,13:35,15:02,6E934
+101039,1003,firstClass,549.55,Akasa Air,14/04/2022,Ahmedabad,Puducherry,1452.17,01:36,13:14,14:50,QP1750,101058,firstClass,1348.79,AirAsia India,25/08/2022,Puducherry,Ahmedabad,1452.17,01:36,11:46,13:22,I57228
+101058,1003,firstClass,1348.79,AirAsia India,25/08/2022,Puducherry,Ahmedabad,1452.17,01:36,11:46,13:22,I57228,101039,firstClass,549.55,Akasa Air,14/04/2022,Ahmedabad,Puducherry,1452.17,01:36,13:14,14:50,QP1750
+101099,1004,firstClass,624.89,AirAsia India,11/07/2019,Khowai,Delhi NCR,1533.62,01:42,18:25,20:07,I54268,101280,firstClass,1097.17,GoAir,27/04/2023,Delhi NCR,Khowai,1533.62,01:42,10:56,12:38,G81736C
+101139,1004,premium,697.65,IndiGo,13/08/2020,Bhopal,Hisar,5549.86,06:09,04:50,10:59,6E164B,101267,premium,1367.88,SpiceJet,26/01/2023,Hisar,Bhopal,5549.86,06:09,03:01,09:10,SG7185
+101267,1004,premium,1367.88,SpiceJet,26/01/2023,Hisar,Bhopal,5549.86,06:09,03:01,09:10,SG7185,101139,premium,697.65,IndiGo,13/08/2020,Bhopal,Hisar,5549.86,06:09,04:50,10:59,6E164B
+101280,1004,firstClass,1097.17,GoAir,27/04/2023,Delhi NCR,Khowai,1533.62,01:42,10:56,12:38,G81736C,101099,firstClass,624.89,AirAsia India,11/07/2019,Khowai,Delhi NCR,1533.62,01:42,18:25,20:07,I54268
+101894,1011,firstClass,1348.79,AirAsia India,22/10/2020,Shillong,Chandigarh,1585.75,01:45,06:48,08:33,I51924,101907,firstClass,949.58,Air India,21/01/2021,Chandigarh,Shillong,1585.75,01:45,03:08,04:53,AI881F
+101907,1011,firstClass,949.58,Air India,21/01/2021,Chandigarh,Shillong,1585.75,01:45,03:08,04:53,AI881F,101894,firstClass,1348.79,AirAsia India,22/10/2020,Shillong,Chandigarh,1585.75,01:45,06:48,08:33,I51924
+102877,1022,firstClass,1348.79,GoAir,23/01/2020,Ayodhya,Bilaspur,524.76,00:34,08:15,08:49,G81205C,103019,premium,577.76,Akasa Air,13/10/2022,Bilaspur,Ayodhya,524.76,00:34,05:03,05:37,QP1012B
+102977,1022,firstClass,1640.8,Air India,23/12/2021,Mopa,Tirupati,8027.45,08:55,17:32,02:27,AI658C,102983,premium,577.76,SpiceJet,02/03/2022,Tirupati,Mopa,8027.45,08:55,04:25,13:20,SG2146
+102983,1022,premium,577.76,SpiceJet,02/03/2022,Tirupati,Mopa,8027.45,08:55,04:25,13:20,SG2146,102977,firstClass,1640.8,Air India,23/12/2021,Mopa,Tirupati,8027.45,08:55,17:32,02:27,AI658C
+103019,1022,premium,577.76,Akasa Air,13/10/2022,Bilaspur,Ayodhya,524.76,00:34,05:03,05:37,QP1012B,102877,firstClass,1348.79,GoAir,23/01/2020,Ayodhya,Bilaspur,524.76,00:34,08:15,08:49,G81205C
+103240,1024,premium,577.76,Akasa Air,24/11/2022,Mysuru,Nashik,908.48,01:00,00:36,01:36,QP1747,103251,premium,577.76,Akasa Air,02/09/2023,Nashik,Mysuru,908.48,01:00,03:04,04:04,QP1108B
+103251,1024,premium,577.76,Akasa Air,02/09/2023,Nashik,Mysuru,908.48,01:00,03:04,04:04,QP1108B,103240,premium,577.76,Akasa Air,24/11/2022,Mysuru,Nashik,908.48,01:00,00:36,01:36,QP1747
+103331,1026,firstClass,949.58,IndiGo,17/12/2020,Jamshedpur,Shillong,654.58,00:43,03:39,04:22,6E493B,103352,premium,918.66,Air India,13/05/2021,Shillong,Jamshedpur,654.58,00:43,14:47,15:30,AI991D
+103352,1026,premium,918.66,Air India,13/05/2021,Shillong,Jamshedpur,654.58,00:43,14:47,15:30,AI991D,103331,firstClass,949.58,IndiGo,17/12/2020,Jamshedpur,Shillong,654.58,00:43,03:39,04:22,6E493B
+103604,1027,premium,481.42,SpiceJet,05/12/2022,Gwalior,Gangtok,1043.09,01:09,08:28,09:37,SG4250,103621,firstClass,949.58,Air India,09/08/2022,Gangtok,Gwalior,1043.09,01:09,11:00,12:09,AI982G
+103621,1027,firstClass,949.58,Air India,09/08/2022,Gangtok,Gwalior,1043.09,01:09,11:00,12:09,AI982G,103604,premium,481.42,SpiceJet,05/12/2022,Gwalior,Gangtok,1043.09,01:09,08:28,09:37,SG4250
+104026,1032,economic,555.01,SpiceJet,26/09/2019,Itanagar,Kullu-Manali,1677.39,01:51,01:52,03:43,SG2853,104041,firstClass,549.55,SpiceJet,01/09/2020,Kullu-Manali,Itanagar,1677.39,01:51,18:12,20:03,SG7165
+104041,1032,firstClass,549.55,SpiceJet,01/09/2020,Kullu-Manali,Itanagar,1677.39,01:51,18:12,20:03,SG7165,104026,economic,555.01,SpiceJet,26/09/2019,Itanagar,Kullu-Manali,1677.39,01:51,01:52,03:43,SG2853
+104472,1037,economic,426.91,IndiGo,12/12/2019,Dehradun,Delhi NCR,206.89,00:13,21:51,22:04,6E677H,104558,premium,697.65,IndiGo,08/05/2021,Delhi NCR,Dehradun,206.89,00:13,06:14,06:27,6E452E
+104558,1037,premium,697.65,IndiGo,08/05/2021,Delhi NCR,Dehradun,206.89,00:13,06:14,06:27,6E452E,104472,economic,426.91,IndiGo,12/12/2019,Dehradun,Delhi NCR,206.89,00:13,21:51,22:04,6E677H
+104683,1039,firstClass,738.8,SpiceJet,29/04/2021,Visakhapatnam,Raigarh,469.41,00:31,18:18,18:49,SG8757,104726,economic,819.41,Akasa Air,24/02/2022,Raigarh,Visakhapatnam,469.41,00:31,03:29,04:00,QP1740
+104725,1039,premium,918.66,Air India,17/02/2022,Bilaspur,Ranchi,352.67,00:23,06:26,06:49,AI787B,104731,firstClass,857.32,SpiceJet,31/03/2022,Ranchi,Bilaspur,352.67,00:23,06:00,06:23,SG4695
+104726,1039,economic,819.41,Akasa Air,24/02/2022,Raigarh,Visakhapatnam,469.41,00:31,03:29,04:00,QP1740,104683,firstClass,738.8,SpiceJet,29/04/2021,Visakhapatnam,Raigarh,469.41,00:31,18:18,18:49,SG8757
+104731,1039,firstClass,857.32,SpiceJet,31/03/2022,Ranchi,Bilaspur,352.67,00:23,06:00,06:23,SG4695,104725,premium,918.66,Air India,17/02/2022,Bilaspur,Ranchi,352.67,00:23,06:26,06:49,AI787B
+104733,1039,firstClass,1292.29,AirAsia India,14/04/2022,Delhi NCR,Amritsar,391.51,00:26,02:50,03:16,I57798,104753,economic,898.67,IndiGo,09/01/2022,Amritsar,Delhi NCR,391.51,00:26,03:06,03:32,6E566C
+104753,1039,economic,898.67,IndiGo,09/01/2022,Amritsar,Delhi NCR,391.51,00:26,03:06,03:32,6E566C,104733,firstClass,1292.29,AirAsia India,14/04/2022,Delhi NCR,Amritsar,391.51,00:26,02:50,03:16,I57798
+104815,1040,firstClass,1087.18,SpiceJet,25/06/2020,Khowai,Chennai,1705.2,01:53,19:06,20:59,SG2631,104898,premium,1013.4,Akasa Air,27/01/2022,Chennai,Khowai,1705.2,01:53,10:49,12:42,QP1526
+104898,1040,premium,1013.4,Akasa Air,27/01/2022,Chennai,Khowai,1705.2,01:53,10:49,12:42,QP1526,104815,firstClass,1087.18,SpiceJet,25/06/2020,Khowai,Chennai,1705.2,01:53,19:06,20:59,SG2631
+104985,1041,firstClass,1127.36,Air India,23/07/2020,Chandigarh,Kullu-Manali,131.49,00:08,10:29,10:37,AI897E,105006,economic,427.0,Akasa Air,17/12/2020,Kullu-Manali,Chandigarh,131.49,00:08,22:27,22:35,QP1391B
+105002,1041,firstClass,1582.1,SpiceJet,19/11/2020,Chennai,Mysuru,404.42,00:26,14:19,14:45,SG5890,105134,economic,426.91,IndiGo,06/01/2023,Mysuru,Chennai,404.42,00:26,12:51,13:17,6E348F
+105006,1041,economic,427.0,Akasa Air,17/12/2020,Kullu-Manali,Chandigarh,131.49,00:08,22:27,22:35,QP1391B,104985,firstClass,1127.36,Air India,23/07/2020,Chandigarh,Kullu-Manali,131.49,00:08,10:29,10:37,AI897E
+105088,1041,firstClass,1574.28,AirAsia India,14/07/2022,Guwahati,Thiruvananthapuram,2512.6,02:47,07:21,10:08,I52525,105129,premium,1149.53,Air India,27/04/2023,Thiruvananthapuram,Guwahati,2512.6,02:47,18:38,21:25,AI720C
+105129,1041,premium,1149.53,Air India,27/04/2023,Thiruvananthapuram,Guwahati,2512.6,02:47,18:38,21:25,AI720C,105088,firstClass,1574.28,AirAsia India,14/07/2022,Guwahati,Thiruvananthapuram,2512.6,02:47,07:21,10:08,I52525
+105134,1041,economic,426.91,IndiGo,06/01/2023,Mysuru,Chennai,404.42,00:26,12:51,13:17,6E348F,105002,firstClass,1582.1,SpiceJet,19/11/2020,Chennai,Mysuru,404.42,00:26,14:19,14:45,SG5890
+105705,1048,premium,697.65,Air India,07/09/2020,Varanasi,Ludhiana,937.48,01:02,03:24,04:26,AI547B,105785,premium,1013.4,Akasa Air,20/01/2022,Ludhiana,Varanasi,937.48,01:02,04:25,05:27,QP1832D
+105785,1048,premium,1013.4,Akasa Air,20/01/2022,Ludhiana,Varanasi,937.48,01:02,04:25,05:27,QP1832D,105705,premium,697.65,Air India,07/09/2020,Varanasi,Ludhiana,937.48,01:02,03:24,04:26,AI547B
+106891,1061,firstClass,930.34,GoAir,07/02/2020,Coimbatore,Diu,1254.52,01:23,03:23,04:46,G81750E,107012,economic,695.3,SpiceJet,27/10/2022,Diu,Coimbatore,1254.52,01:23,11:54,13:17,SG7242
+107012,1061,economic,695.3,SpiceJet,27/10/2022,Diu,Coimbatore,1254.52,01:23,11:54,13:17,SG7242,106891,firstClass,930.34,GoAir,07/02/2020,Coimbatore,Diu,1254.52,01:23,03:23,04:46,G81750E
+107559,1067,firstClass,1097.17,GoAir,11/07/2019,Itanagar,Kota,4206.63,04:40,05:57,10:37,G81057,107587,premium,1013.4,SpiceJet,21/05/2020,Kota,Itanagar,4206.63,04:40,11:35,16:15,SG4661
+107587,1067,premium,1013.4,SpiceJet,21/05/2020,Kota,Itanagar,4206.63,04:40,11:35,16:15,SG4661,107559,firstClass,1097.17,GoAir,11/07/2019,Itanagar,Kota,4206.63,04:40,05:57,10:37,G81057
+107800,1070,firstClass,1292.29,GoAir,24/10/2019,Nashik,Jaipur,796.17,00:53,10:53,11:46,G81432,107849,firstClass,1468.03,IndiGo,10/01/2020,Jaipur,Nashik,796.17,00:53,07:30,08:23,6E136
+107849,1070,firstClass,1468.03,IndiGo,10/01/2020,Jaipur,Nashik,796.17,00:53,07:30,08:23,6E136,107800,firstClass,1292.29,GoAir,24/10/2019,Nashik,Jaipur,796.17,00:53,10:53,11:46,G81432
+108240,1074,economic,879.1,IndiGo,22/10/2020,Hisar,Udaipur,5157.55,05:43,13:41,19:24,6E243D,108349,firstClass,1692.64,AirAsia India,24/11/2022,Udaipur,Hisar,5157.55,05:43,16:29,22:12,I57259
+108349,1074,firstClass,1692.64,AirAsia India,24/11/2022,Udaipur,Hisar,5157.55,05:43,16:29,22:12,I57259,108240,economic,879.1,IndiGo,22/10/2020,Hisar,Udaipur,5157.55,05:43,13:41,19:24,6E243D
+108868,1080,premium,1013.4,Akasa Air,10/10/2019,Jamshedpur,Bengaluru,1420.83,01:34,23:06,00:40,QP1061B,108987,economic,898.67,IndiGo,20/01/2022,Bengaluru,Jamshedpur,1420.83,01:34,10:30,12:04,6E497B
+108889,1080,premium,885.37,IndiGo,03/05/2020,Kota,Amritsar,2400.03,02:40,14:57,17:37,6E681C,109044,premium,814.55,Akasa Air,23/02/2023,Amritsar,Kota,2400.03,02:40,22:38,01:18,QP1575D
+108987,1080,economic,898.67,IndiGo,20/01/2022,Bengaluru,Jamshedpur,1420.83,01:34,10:30,12:04,6E497B,108868,premium,1013.4,Akasa Air,10/10/2019,Jamshedpur,Bengaluru,1420.83,01:34,23:06,00:40,QP1061B
+109044,1080,premium,814.55,Akasa Air,23/02/2023,Amritsar,Kota,2400.03,02:40,22:38,01:18,QP1575D,108889,premium,885.37,IndiGo,03/05/2020,Kota,Amritsar,2400.03,02:40,14:57,17:37,6E681C
+110958,1100,economic,726.95,Air India,02/04/2021,Chennai,Dhubri,1759.43,01:57,15:57,17:54,AI750F,110988,economic,544.86,SpiceJet,09/02/2021,Dhubri,Chennai,1759.43,01:57,11:34,13:31,SG4115
+110988,1100,economic,544.86,SpiceJet,09/02/2021,Dhubri,Chennai,1759.43,01:57,11:34,13:31,SG4115,110958,economic,726.95,Air India,02/04/2021,Chennai,Dhubri,1759.43,01:57,15:57,17:54,AI750F
+111026,1101,firstClass,1630.75,Akasa Air,27/02/2020,Puri,Ludhiana,1589.13,01:45,18:11,19:56,QP1918C,111083,firstClass,1468.03,Air India,04/01/2021,Ludhiana,Puri,1589.13,01:45,03:18,05:03,AI896D
+111083,1101,firstClass,1468.03,Air India,04/01/2021,Ludhiana,Puri,1589.13,01:45,03:18,05:03,AI896D,111026,firstClass,1630.75,Akasa Air,27/02/2020,Puri,Ludhiana,1589.13,01:45,18:11,19:56,QP1918C
+111398,1104,firstClass,1292.29,AirAsia India,30/04/2020,Guwahati,Delhi NCR,1472.7,01:38,01:50,03:28,I55254,111460,firstClass,1630.75,SpiceJet,07/08/2021,Delhi NCR,Guwahati,1472.7,01:38,14:15,15:53,SG2366B
+111432,1104,firstClass,624.89,GoAir,24/12/2020,Amritsar,Jamshedpur,1485.71,01:39,22:04,23:43,G81539D,111482,firstClass,1348.79,GoAir,12/09/2021,Jamshedpur,Amritsar,1485.71,01:39,04:27,06:06,G81826C
+111460,1104,firstClass,1630.75,SpiceJet,07/08/2021,Delhi NCR,Guwahati,1472.7,01:38,14:15,15:53,SG2366B,111398,firstClass,1292.29,AirAsia India,30/04/2020,Guwahati,Delhi NCR,1472.7,01:38,01:50,03:28,I55254
+111482,1104,firstClass,1348.79,GoAir,12/09/2021,Jamshedpur,Amritsar,1485.71,01:39,04:27,06:06,G81826C,111432,firstClass,624.89,GoAir,24/12/2020,Amritsar,Jamshedpur,1485.71,01:39,22:04,23:43,G81539D
+111856,1108,premium,1367.88,Akasa Air,14/05/2020,Hisar,Shillong,6610.02,07:20,21:09,04:29,QP1454,111957,firstClass,930.34,AirAsia India,21/04/2022,Shillong,Hisar,6610.02,07:20,14:56,22:16,I53203
+111935,1108,premium,554.87,IndiGo,18/11/2021,Hisar,Shillong,6610.02,07:20,19:11,02:31,6E571B,111957,firstClass,930.34,AirAsia India,21/04/2022,Shillong,Hisar,6610.02,07:20,14:56,22:16,I53203
+111957,1108,firstClass,930.34,AirAsia India,21/04/2022,Shillong,Hisar,6610.02,07:20,14:56,22:16,I53203,111856,premium,1367.88,Akasa Air,14/05/2020,Hisar,Shillong,6610.02,07:20,21:09,04:29,QP1454
+111957,1108,firstClass,930.34,AirAsia India,21/04/2022,Shillong,Hisar,6610.02,07:20,14:56,22:16,I53203,111935,premium,554.87,IndiGo,18/11/2021,Hisar,Shillong,6610.02,07:20,19:11,02:31,6E571B
+114470,1139,economic,780.68,SpiceJet,20/02/2020,Hisar,Amritsar,4845.36,05:23,10:35,15:58,SG3409B,114489,premium,577.76,SpiceJet,07/02/2020,Amritsar,Hisar,4845.36,05:23,03:48,09:11,SG4466
+114489,1139,premium,577.76,SpiceJet,07/02/2020,Amritsar,Hisar,4845.36,05:23,03:48,09:11,SG4466,114470,economic,780.68,SpiceJet,20/02/2020,Hisar,Amritsar,4845.36,05:23,10:35,15:58,SG3409B
+115062,1145,economic,898.67,IndiGo,03/04/2021,Indore,Chennai,1169.26,01:17,10:00,11:17,6E573B,115142,premium,1311.38,IndiGo,15/09/2022,Chennai,Indore,1169.26,01:17,18:45,20:02,6E610C
+115142,1145,premium,1311.38,IndiGo,15/09/2022,Chennai,Indore,1169.26,01:17,18:45,20:02,6E610C,115062,economic,898.67,IndiGo,03/04/2021,Indore,Chennai,1169.26,01:17,10:00,11:17,6E573B
+116043,1151,firstClass,949.58,IndiGo,27/08/2020,Dabolim,Bhopal,952.21,01:03,01:15,02:18,6E382,116084,premium,469.92,Air India,06/10/2021,Bhopal,Dabolim,952.21,01:03,03:09,04:12,AI523
+116084,1151,premium,469.92,Air India,06/10/2021,Bhopal,Dabolim,952.21,01:03,03:09,04:12,AI523,116043,firstClass,949.58,IndiGo,27/08/2020,Dabolim,Bhopal,952.21,01:03,01:15,02:18,6E382
+117261,1162,economic,915.02,Akasa Air,26/11/2020,Chandigarh,Diu,1256.47,01:23,00:19,01:42,QP1058F,117306,firstClass,1292.29,GoAir,10/07/2021,Diu,Chandigarh,1256.47,01:23,18:46,20:09,G81164E
+117306,1162,firstClass,1292.29,GoAir,10/07/2021,Diu,Chandigarh,1256.47,01:23,18:46,20:09,G81164E,117261,economic,915.02,Akasa Air,26/11/2020,Chandigarh,Diu,1256.47,01:23,00:19,01:42,QP1058F
+117350,1163,firstClass,1175.62,SpiceJet,13/02/2020,Ranchi,Navi Mumbai,1360.83,01:30,19:23,20:53,SG1372,117404,premium,885.37,Air India,25/02/2021,Navi Mumbai,Ranchi,1360.83,01:30,08:15,09:45,AI779E
+117404,1163,premium,885.37,Air India,25/02/2021,Navi Mumbai,Ranchi,1360.83,01:30,08:15,09:45,AI779E,117350,firstClass,1175.62,SpiceJet,13/02/2020,Ranchi,Navi Mumbai,1360.83,01:30,19:23,20:53,SG1372
+117586,1165,economic,695.3,Akasa Air,31/10/2019,Kullu-Manali,Bhubaneswar,1552.98,01:43,10:49,12:32,QP1340,117598,economic,879.1,IndiGo,23/01/2020,Bhubaneswar,Kullu-Manali,1552.98,01:43,19:50,21:33,6E501B
+117598,1165,economic,879.1,IndiGo,23/01/2020,Bhubaneswar,Kullu-Manali,1552.98,01:43,19:50,21:33,6E501B,117586,economic,695.3,Akasa Air,31/10/2019,Kullu-Manali,Bhubaneswar,1552.98,01:43,10:49,12:32,QP1340
+117647,1165,firstClass,1300.6,Air India,31/12/2020,Kota,Indore,2510.59,02:47,06:25,09:12,AI552G,117742,firstClass,762.89,GoAir,27/10/2022,Indore,Kota,2510.59,02:47,21:21,00:08,G81869C
+117742,1165,firstClass,762.89,GoAir,27/10/2022,Indore,Kota,2510.59,02:47,21:21,00:08,G81869C,117647,firstClass,1300.6,Air India,31/12/2020,Kota,Indore,2510.59,02:47,06:25,09:12,AI552G
+118291,1173,premium,1311.38,IndiGo,13/02/2020,Udaipur,Navi Mumbai,621.21,00:41,02:54,03:35,6E705B,118377,premium,814.55,SpiceJet,10/07/2021,Navi Mumbai,Udaipur,621.21,00:41,17:33,18:14,SG7770C
+118377,1173,premium,814.55,SpiceJet,10/07/2021,Navi Mumbai,Udaipur,621.21,00:41,17:33,18:14,SG7770C,118291,premium,1311.38,IndiGo,13/02/2020,Udaipur,Navi Mumbai,621.21,00:41,02:54,03:35,6E705B
+119376,1185,economic,915.02,SpiceJet,21/11/2019,Bilaspur,Udaipur,905.63,01:00,20:43,21:43,SG1780,119429,firstClass,1692.64,GoAir,26/11/2020,Udaipur,Bilaspur,905.63,01:00,07:37,08:37,G81872C
+119429,1185,firstClass,1692.64,GoAir,26/11/2020,Udaipur,Bilaspur,905.63,01:00,07:37,08:37,G81872C,119376,economic,915.02,SpiceJet,21/11/2019,Bilaspur,Udaipur,905.63,01:00,20:43,21:43,SG1780
+120197,1193,economic,780.68,Akasa Air,02/06/2020,Chennai,Varanasi,1389.56,01:32,07:28,09:00,QP1975D,120288,economic,695.3,SpiceJet,11/04/2021,Varanasi,Chennai,1389.56,01:32,09:03,10:35,SG4975
+120288,1193,economic,695.3,SpiceJet,11/04/2021,Varanasi,Chennai,1389.56,01:32,09:03,10:35,SG4975,120197,economic,780.68,Akasa Air,02/06/2020,Chennai,Varanasi,1389.56,01:32,07:28,09:00,QP1975D
+120533,1196,premium,1114.55,SpiceJet,21/11/2019,Bhopal,Itanagar,1684.31,01:52,05:12,07:04,SG4100,120639,premium,469.92,Air India,12/02/2021,Itanagar,Bhopal,1684.31,01:52,16:24,18:16,AI838
+120639,1196,premium,469.92,Air India,12/02/2021,Itanagar,Bhopal,1684.31,01:52,16:24,18:16,AI838,120533,premium,1114.55,SpiceJet,21/11/2019,Bhopal,Itanagar,1684.31,01:52,05:12,07:04,SG4100
+121038,1201,premium,1311.38,IndiGo,24/09/2020,Shillong,Dabolim,2191.49,02:26,20:52,23:18,6E505D,121079,premium,1311.38,IndiGo,07/08/2021,Dabolim,Shillong,2191.49,02:26,21:09,23:35,6E132C
+121079,1201,premium,1311.38,IndiGo,07/08/2021,Dabolim,Shillong,2191.49,02:26,21:09,23:35,6E132C,121038,premium,1311.38,IndiGo,24/09/2020,Shillong,Dabolim,2191.49,02:26,20:52,23:18,6E505D
+121921,1210,premium,1311.38,Air India,10/03/2019,Chandigarh,Puri,1516.73,01:41,17:59,19:40,AI178C,121931,premium,1311.38,IndiGo,12/12/2019,Puri,Chandigarh,1516.73,01:41,04:04,05:45,6E354D
+121931,1210,premium,1311.38,IndiGo,12/12/2019,Puri,Chandigarh,1516.73,01:41,04:04,05:45,6E354D,121921,premium,1311.38,Air India,10/03/2019,Chandigarh,Puri,1516.73,01:41,17:59,19:40,AI178C
+122683,1216,firstClass,930.34,AirAsia India,17/12/2020,Varanasi,Shillong,891.19,00:59,21:46,22:45,I59476,122697,economic,695.3,Akasa Air,25/03/2021,Shillong,Varanasi,891.19,00:59,04:43,05:42,QP1345C
+122697,1216,economic,695.3,Akasa Air,25/03/2021,Shillong,Varanasi,891.19,00:59,04:43,05:42,QP1345C,122683,firstClass,930.34,AirAsia India,17/12/2020,Varanasi,Shillong,891.19,00:59,21:46,22:45,I59476
+122817,1218,economic,879.1,Air India,08/06/2020,Raigarh,Mumbai,1138.99,01:15,05:13,06:28,AI600B,122849,firstClass,549.55,SpiceJet,18/03/2021,Mumbai,Raigarh,1138.99,01:15,08:40,09:55,SG7826
+122849,1218,firstClass,549.55,SpiceJet,18/03/2021,Mumbai,Raigarh,1138.99,01:15,08:40,09:55,SG7826,122817,economic,879.1,Air India,08/06/2020,Raigarh,Mumbai,1138.99,01:15,05:13,06:28,AI600B
+123139,1220,firstClass,1315.27,Air India,02/11/2021,Vadodara,Hisar,5262.77,05:50,12:12,18:02,AI324C,123210,economic,426.91,Air India,23/06/2022,Hisar,Vadodara,5262.77,05:50,19:46,01:36,AI378B
+123210,1220,economic,426.91,Air India,23/06/2022,Hisar,Vadodara,5262.77,05:50,19:46,01:36,AI378B,123139,firstClass,1315.27,Air India,02/11/2021,Vadodara,Hisar,5262.77,05:50,12:12,18:02,AI324C
+123447,1222,firstClass,1640.8,Air India,03/11/2021,Pune,Hyderabad,502.79,00:33,14:34,15:07,AI973D,123461,firstClass,762.89,GoAir,17/06/2021,Hyderabad,Pune,502.79,00:33,17:05,17:38,G81745E
+123461,1222,firstClass,762.89,GoAir,17/06/2021,Hyderabad,Pune,502.79,00:33,17:05,17:38,G81745E,123447,firstClass,1640.8,Air India,03/11/2021,Pune,Hyderabad,502.79,00:33,14:34,15:07,AI973D
+123756,1224,economic,426.91,Air India,03/12/2020,Ludhiana,Navi Mumbai,1350.92,01:30,22:46,00:16,AI216C,123794,economic,879.1,Air India,12/03/2020,Navi Mumbai,Ludhiana,1350.92,01:30,03:02,04:32,AI965
+123794,1224,economic,879.1,Air India,12/03/2020,Navi Mumbai,Ludhiana,1350.92,01:30,03:02,04:32,AI965,123756,economic,426.91,Air India,03/12/2020,Ludhiana,Navi Mumbai,1350.92,01:30,22:46,00:16,AI216C
+124171,1227,firstClass,1315.27,IndiGo,30/07/2020,Hisar,Srinagar,4713.89,05:14,00:53,06:07,6E882C,124206,firstClass,1300.6,IndiGo,04/01/2021,Srinagar,Hisar,4713.89,05:14,06:14,11:28,6E944B
+124206,1227,firstClass,1300.6,IndiGo,04/01/2021,Srinagar,Hisar,4713.89,05:14,06:14,11:28,6E944B,124171,firstClass,1315.27,IndiGo,30/07/2020,Hisar,Srinagar,4713.89,05:14,00:53,06:07,6E882C
+126567,1252,economic,478.02,IndiGo,14/10/2021,Gwalior,Srinagar,931.43,01:02,23:45,00:47,6E847,126598,economic,636.51,IndiGo,19/05/2022,Srinagar,Gwalior,931.43,01:02,06:52,07:54,6E963D
+126598,1252,economic,636.51,IndiGo,19/05/2022,Srinagar,Gwalior,931.43,01:02,06:52,07:54,6E963D,126567,economic,478.02,IndiGo,14/10/2021,Gwalior,Srinagar,931.43,01:02,23:45,00:47,6E847
+126673,1253,firstClass,1630.75,SpiceJet,01/02/2020,Amritsar,Thiruvananthapuram,2581.63,02:52,03:46,06:38,SG4225,126804,economic,695.3,SpiceJet,07/07/2022,Thiruvananthapuram,Amritsar,2581.63,02:52,11:51,14:43,SG2439
+126804,1253,economic,695.3,SpiceJet,07/07/2022,Thiruvananthapuram,Amritsar,2581.63,02:52,11:51,14:43,SG2439,126673,firstClass,1630.75,SpiceJet,01/02/2020,Amritsar,Thiruvananthapuram,2581.63,02:52,03:46,06:38,SG4225
+127250,1256,firstClass,1468.03,IndiGo,15/04/2021,Ludhiana,Itanagar,1776.27,01:58,14:03,16:01,6E140B,127285,firstClass,762.89,GoAir,16/12/2021,Itanagar,Ludhiana,1776.27,01:58,12:43,14:41,G81248
+127285,1256,firstClass,762.89,GoAir,16/12/2021,Itanagar,Ludhiana,1776.27,01:58,12:43,14:41,G81248,127250,firstClass,1468.03,IndiGo,15/04/2021,Ludhiana,Itanagar,1776.27,01:58,14:03,16:01,6E140B
+127710,1260,economic,674.52,Air India,31/10/2019,Udaipur,Bhopal,403.14,00:26,07:46,08:12,AI373F,127737,firstClass,1692.64,AirAsia India,05/07/2020,Bhopal,Udaipur,403.14,00:26,07:23,07:49,I51108
+127737,1260,firstClass,1692.64,AirAsia India,05/07/2020,Bhopal,Udaipur,403.14,00:26,07:23,07:49,I51108,127710,economic,674.52,Air India,31/10/2019,Udaipur,Bhopal,403.14,00:26,07:46,08:12,AI373F
+128761,1269,premium,1311.38,Air India,02/04/2021,Jaipur,Dabolim,1298.92,01:26,10:19,11:45,AI193E,128763,premium,577.76,SpiceJet,18/02/2021,Dabolim,Jaipur,1298.92,01:26,07:36,09:02,SG7325
+128763,1269,premium,577.76,SpiceJet,18/02/2021,Dabolim,Jaipur,1298.92,01:26,07:36,09:02,SG7325,128761,premium,1311.38,Air India,02/04/2021,Jaipur,Dabolim,1298.92,01:26,10:19,11:45,AI193E
+129087,1271,firstClass,1087.18,Akasa Air,20/08/2020,Srinagar,Kota,2457.81,02:43,09:47,12:30,QP1314,129103,premium,814.55,SpiceJet,12/10/2020,Kota,Srinagar,2457.81,02:43,07:31,10:14,SG4391
+129103,1271,premium,814.55,SpiceJet,12/10/2020,Kota,Srinagar,2457.81,02:43,07:31,10:14,SG4391,129087,firstClass,1087.18,Akasa Air,20/08/2020,Srinagar,Kota,2457.81,02:43,09:47,12:30,QP1314
+129209,1272,economic,780.68,Akasa Air,30/07/2020,Ranchi,Thiruvananthapuram,1876.95,02:05,06:27,08:32,QP1390D,129305,firstClass,1348.79,AirAsia India,06/02/2022,Thiruvananthapuram,Ranchi,1876.95,02:05,03:13,05:18,I59215
+129305,1272,firstClass,1348.79,AirAsia India,06/02/2022,Thiruvananthapuram,Ranchi,1876.95,02:05,03:13,05:18,I59215,129209,economic,780.68,Akasa Air,30/07/2020,Ranchi,Thiruvananthapuram,1876.95,02:05,06:27,08:32,QP1390D
+130646,1286,firstClass,1385.49,SpiceJet,25/06/2020,Shimla,Jamshedpur,1283.89,01:25,11:11,12:36,SG6123,130775,firstClass,1127.36,Air India,15/12/2022,Jamshedpur,Shimla,1283.89,01:25,05:35,07:00,AI800
+130650,1286,firstClass,857.32,SpiceJet,23/07/2020,Mopa,Srinagar,7566.74,08:24,09:11,17:35,SG1375B,130685,firstClass,1315.27,Air India,25/03/2021,Srinagar,Mopa,7566.74,08:24,17:11,01:35,AI740E
+130685,1286,firstClass,1315.27,Air India,25/03/2021,Srinagar,Mopa,7566.74,08:24,17:11,01:35,AI740E,130650,firstClass,857.32,SpiceJet,23/07/2020,Mopa,Srinagar,7566.74,08:24,09:11,17:35,SG1375B
+130688,1286,premium,918.66,Air India,15/04/2021,Chennai,Puducherry,137.25,00:09,09:08,09:17,AI767E,130696,firstClass,624.89,GoAir,06/10/2021,Puducherry,Chennai,137.25,00:09,19:13,19:22,G81324E
+130696,1286,firstClass,624.89,GoAir,06/10/2021,Puducherry,Chennai,137.25,00:09,19:13,19:22,G81324E,130688,premium,918.66,Air India,15/04/2021,Chennai,Puducherry,137.25,00:09,09:08,09:17,AI767E
+130775,1286,firstClass,1127.36,Air India,15/12/2022,Jamshedpur,Shimla,1283.89,01:25,05:35,07:00,AI800,130646,firstClass,1385.49,SpiceJet,25/06/2020,Shimla,Jamshedpur,1283.89,01:25,11:11,12:36,SG6123
+132421,1305,economic,780.68,SpiceJet,02/04/2021,Nashik,Hisar,5465.3,06:04,23:41,05:45,SG4446,132448,economic,478.02,IndiGo,08/12/2021,Hisar,Nashik,5465.3,06:04,01:14,07:18,6E757
+132448,1305,economic,478.02,IndiGo,08/12/2021,Hisar,Nashik,5465.3,06:04,01:14,07:18,6E757,132421,economic,780.68,SpiceJet,02/04/2021,Nashik,Hisar,5465.3,06:04,23:41,05:45,SG4446
+132731,1307,firstClass,857.32,SpiceJet,21/05/2020,Ranchi,Dhubri,558.25,00:37,22:07,22:44,SG8462,132739,firstClass,693.51,IndiGo,16/07/2020,Dhubri,Ranchi,558.25,00:37,14:23,15:00,6E822
+132739,1307,firstClass,693.51,IndiGo,16/07/2020,Dhubri,Ranchi,558.25,00:37,14:23,15:00,6E822,132731,firstClass,857.32,SpiceJet,21/05/2020,Ranchi,Dhubri,558.25,00:37,22:07,22:44,SG8462
+133011,1311,economic,313.62,Air India,30/07/2020,Gwalior,Nashik,825.13,00:55,09:03,09:58,AI866B,133032,firstClass,624.89,AirAsia India,24/12/2020,Nashik,Gwalior,825.13,00:55,07:58,08:53,I54027B
+133032,1311,firstClass,624.89,AirAsia India,24/12/2020,Nashik,Gwalior,825.13,00:55,07:58,08:53,I54027B,133011,economic,313.62,Air India,30/07/2020,Gwalior,Nashik,825.13,00:55,09:03,09:58,AI866B
+133492,1315,economic,819.41,Akasa Air,05/06/2021,Shimla,Delhi NCR,271.89,00:18,06:52,07:10,QP1673B,133540,economic,544.86,Akasa Air,04/07/2022,Delhi NCR,Shimla,271.89,00:18,13:48,14:06,QP1545E
+133540,1315,economic,544.86,Akasa Air,04/07/2022,Delhi NCR,Shimla,271.89,00:18,13:48,14:06,QP1545E,133492,economic,819.41,Akasa Air,05/06/2021,Shimla,Delhi NCR,271.89,00:18,06:52,07:10,QP1673B
+134586,1323,premium,885.37,Air India,16/12/2021,Hyderabad,Dehradun,1439.54,01:35,19:57,21:32,AI841D,134613,firstClass,1087.18,Akasa Air,23/06/2022,Dehradun,Hyderabad,1439.54,01:35,22:00,23:35,QP1123C
+134613,1323,firstClass,1087.18,Akasa Air,23/06/2022,Dehradun,Hyderabad,1439.54,01:35,22:00,23:35,QP1123C,134586,premium,885.37,Air India,16/12/2021,Hyderabad,Dehradun,1439.54,01:35,19:57,21:32,AI841D
+135670,1335,firstClass,693.51,IndiGo,28/11/2019,Raigarh,Kota,3289.6,03:39,10:34,14:13,6E796C,135799,premium,577.76,Akasa Air,19/05/2022,Kota,Raigarh,3289.6,03:39,22:43,02:22,QP1149C
+135799,1335,premium,577.76,Akasa Air,19/05/2022,Kota,Raigarh,3289.6,03:39,22:43,02:22,QP1149C,135670,firstClass,693.51,IndiGo,28/11/2019,Raigarh,Kota,3289.6,03:39,10:34,14:13,6E796C
