@@ -1,0 +1,6 @@
+User_ID,travelCode,Check-in,pickupLocation,dropoffLocation,carType,rentalAgency,rentalDuration,Car_total_distance,fuelPolicy,Car_bookingStatus,total_rent_price
+0,22,02/27/2020,Johntown,Port Brian,Sedan,Sixt,3,285,Prepaid,Pending,3410
+0,45,08/06/2020,Owensland,Ruizfort,Sedan,Enterprise,3,412,Full-to-Full,Pending,4644
+2,117,02/27/2020,Edwardview,Katiefort,Sedan,Hertz,1,433,Partial,Confirmed,4740
+2,119,03/12/2020,Moranborough,Lake Stephanie,Hatchback,Budget,3,421,Full-to-Full,Confirmed,3744
+2,153,11/05/2020,Port Kathrynstad,East Ronnieberg,Sedan,Enterprise,5,100,Prepaid,Cancelled,1694
